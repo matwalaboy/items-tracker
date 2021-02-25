@@ -20,15 +20,35 @@
   "namespace": "02c14a01b7044db98de3f3a10813a42e",
   "status": "ACTIVE",
   "creationDate": "2021-02-19T23:20:26.604Z",
-  "lastModifiedDate": "2021-02-20T00:12:46.225Z",
+  "lastModifiedDate": "2021-02-24T00:06:59.004Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
       "value": "true"
     },
+    "PresenceId": {
+      "type": "STRING",
+      "value": "02c14a01b7044db98de3f3a10813a42e"
+    },
+    "MonitorPresence": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
     "mods.installPath": {
       "type": "STRING",
       "value": "[]"
+    },
+    "RequirementsJson": {
+      "type": "STRING",
+      "value": "[]"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
     },
     "FolderName": {
       "type": "STRING",
