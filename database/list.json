@@ -20609,7 +20609,7 @@
     ],
     "Epic Games",
     1558730551,
-    1563553024
+    1627344020
   ],
   [
     "5b41069dcea94c6db5b7ca8aa08cd237",
@@ -20890,6 +20890,17 @@
     "Sold Out",
     1566940201,
     1598363458
+  ],
+  [
+    "5c342732d6844d7d960ab272b5b4a806",
+    "SeaQA",
+    "SmokeTest Item For Any Offer",
+    [
+      "testing"
+    ],
+    "johnsonwu",
+    1627036168,
+    1627267259
   ],
   [
     "5c4553bd1eab43e1bef2eccc9a4a6203",
@@ -29907,6 +29918,18 @@
     "Warner Brothers",
     1566944370,
     1574182985
+  ],
+  [
+    "848979003fd24654b6139a36a682a60c",
+    "61449320f87347a8bf02159cbf8adb7f",
+    "SalmonAlphaAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Balancing Monkey Games",
+    1591053913,
+    1591053913
   ],
   [
     "84b86c9e65f74297baafd880965657d2",
@@ -51533,6 +51556,18 @@
     "THQ Nordic GmbH",
     1590592313,
     1592930378
+  ],
+  [
+    "e42ec6c2c0714d7dad8638ced561e455",
+    "158a0eaa18574bb39347c04286d118c7",
+    "MorganiteGeneralAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Devolver Digital, Inc.",
+    1590177267,
+    1590177267
   ],
   [
     "e42eca8e2aeb48da9ccc5d5ecc212b62",
