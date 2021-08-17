@@ -3753,7 +3753,7 @@
     ],
     "505 Games",
     1599759771,
-    1604421393
+    1629128091
   ],
   [
     "1064fc110e54461cba303bb9c9cc0fd5",
@@ -12597,13 +12597,13 @@
   [
     "388a171973f14814a4aba10485a90366",
     "SeaQA",
-    "Entitlement122",
+    "Landy consumable item",
     [
       "assets"
     ],
-    "SeaTest1",
+    "Epic Games Staff Account - Do NOT Delete",
     1414432565,
-    1414432592
+    1629085078
   ],
   [
     "388bd31c3dec4df8b525fc4405bae616",
@@ -16434,7 +16434,7 @@
     ],
     "Epic Games",
     1494634432,
-    1623139879
+    1629123603
   ],
   [
     "49034acd5241476f95b6cd5d41c51c4e",
@@ -18220,7 +18220,7 @@
     ],
     "Epic Games",
     1410535206,
-    1628121948
+    1629123590
   ],
   [
     "4febc186c2124795ae3875145126d27c",
@@ -28284,13 +28284,13 @@
   [
     "7d420f550e3a47c89ac87f20586611a9",
     "SeaQA",
-    "Entitlement-12",
+    "Landy Durable item",
     [
       "testing"
     ],
-    "SeaTest1",
+    "Epic Games Staff Account - Do NOT Delete",
     1414432121,
-    1414432487
+    1629085191
   ],
   [
     "7d4f9a44b2cb47ab8512bfa211d96534",
@@ -45509,6 +45509,17 @@
     "Ubisoft Entertainment",
     1564169985,
     1607613724
+  ],
+  [
+    "c99a285d4578430c84cde1cb3708633b",
+    "SeaQA",
+    "testLocaleAugItem",
+    [
+      "testing"
+    ],
+    "Chucklefish LTD",
+    1629096980,
+    1629097219
   ],
   [
     "c99aef1cf1e146c291b91bcaf4f6f798",
