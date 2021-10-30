@@ -9258,7 +9258,7 @@
   [
     "28b94f4e705741de9b0aa5b266c4c0fc",
     "bd46d4ce259349e5bd8b3ded20274737",
-    "Chivalry 2 - DemoStaging",
+    "Chivalry 2 - CreatorDev",
     [
       "public",
       "games",
@@ -9266,7 +9266,7 @@
     ],
     "Tripwire Interactive",
     1596136940,
-    1613071179
+    1635521120
   ],
   [
     "28c6cf3852ff4475953f2d6f92a13360",
@@ -11105,7 +11105,7 @@
   [
     "3263607987e3462f82ee3a362fb7a7f0",
     "bd46d4ce259349e5bd8b3ded20274737",
-    "Chivalry 2 - Koch",
+    "Chivalry 2 - Trunk",
     [
       "public",
       "games",
@@ -11113,7 +11113,7 @@
     ],
     "Tripwire Interactive",
     1596137548,
-    1618802749
+    1635521163
   ],
   [
     "3274ef4d92d645df86ae3ecc17d6268f",
@@ -12605,7 +12605,7 @@
     ],
     "Tripwire Interactive",
     1568411300,
-    1594306679
+    1635534515
   ],
   [
     "38776eec39794b51806b4dfe306460fa",
@@ -12882,7 +12882,7 @@
     ],
     "Tripwire Interactive",
     1584050363,
-    1594306679
+    1635534515
   ],
   [
     "39a4734792344813b44d7194ce02a3af",
@@ -14151,7 +14151,7 @@
   [
     "4003c4860bd642e6b1e81e8e95b5d136",
     "bd46d4ce259349e5bd8b3ded20274737",
-    "Chivalry 2 - Stable Testing",
+    "Chivalry 2 - StableDev",
     [
       "public",
       "games",
@@ -14159,7 +14159,7 @@
     ],
     "Tripwire Interactive",
     1584736461,
-    1623166702
+    1635521427
   ],
   [
     "4017620c88774e4f8723f44f462547d0",
@@ -21219,7 +21219,7 @@
     ],
     "Tripwire Interactive",
     1578520809,
-    1617986148
+    1635522110
   ],
   [
     "5d0cfda892d542a089341ca744aaafee",
@@ -30566,7 +30566,7 @@
     ],
     "Red Hook Studios",
     1566595434,
-    1635265717
+    1635516415
   ],
   [
     "86db4f6493d54c62a377d22509145f2b",
@@ -36170,7 +36170,7 @@
   [
     "9fda5e34336547dbbbab61a510f8ebb7",
     "bd46d4ce259349e5bd8b3ded20274737",
-    "Chivalry 2 - BetaStaging",
+    "Chivalry 2 - FilmingDev",
     [
       "public",
       "games",
@@ -36178,7 +36178,7 @@
     ],
     "Tripwire Interactive",
     1596136428,
-    1613071179
+    1635520816
   ],
   [
     "9fe2936e2f084df8b48be6d274d203df",
@@ -38768,7 +38768,7 @@
     ],
     "Tripwire Interactive",
     1584050415,
-    1594306679
+    1635534515
   ],
   [
     "ab47f063b84b41cc896162a8fc16058e",
@@ -45016,7 +45016,7 @@
   [
     "c751712d3f8c457fa7c414799c2699ec",
     "bd46d4ce259349e5bd8b3ded20274737",
-    "Chivalry 2 - Demo Event",
+    "Chivalry 2 - Playtest",
     [
       "public",
       "games",
@@ -45024,7 +45024,7 @@
     ],
     "Tripwire Interactive",
     1596136736,
-    1616547532
+    1635523154
   ],
   [
     "c762d679def54fbf965aa49cff934130",
@@ -46308,7 +46308,7 @@
   [
     "cccd6bb3839b45e68ecf5c81eeec686b",
     "bd46d4ce259349e5bd8b3ded20274737",
-    "Chivalry 2 - LiveStaging",
+    "Chivalry 2 - LiveDev",
     [
       "public",
       "games",
@@ -46316,7 +46316,7 @@
     ],
     "Tripwire Interactive",
     1596136079,
-    1613071179
+    1635520727
   ],
   [
     "cce9b9e0b5934935992139df25efbe1e",
@@ -52611,7 +52611,7 @@
     ],
     "Tripwire Interactive",
     1584050298,
-    1594306679
+    1635534515
   ],
   [
     "e7f85ad987144130bf4812b01074a456",
@@ -53668,7 +53668,7 @@
   [
     "ed3bfa951ced4b63afcceaa499a52c92",
     "bd46d4ce259349e5bd8b3ded20274737",
-    "Chivalry 2 - CertStaging",
+    "Chivalry 2 - CertDev",
     [
       "public",
       "games",
@@ -53676,7 +53676,7 @@
     ],
     "Tripwire Interactive",
     1596137370,
-    1613071179
+    1635520863
   ],
   [
     "ed3d90a3414548a29ca6f905d4f62713",
@@ -53763,7 +53763,7 @@
   [
     "ed854eefdd374a788037409bac01481e",
     "bd46d4ce259349e5bd8b3ded20274737",
-    "Chivalry 2 - Testing",
+    "Chivalry 2 - Unstable",
     [
       "public",
       "games",
@@ -53771,7 +53771,7 @@
     ],
     "Tripwire Interactive",
     1584735721,
-    1613071179
+    1635521468
   ],
   [
     "edc16574364542a7b3ee7012f4b595fb",
@@ -57112,7 +57112,7 @@
   [
     "fe1d5d38be7042a4aae1016f6e739646",
     "bd46d4ce259349e5bd8b3ded20274737",
-    "Chivalry 2 - KochStaging",
+    "Chivalry 2 - TrunkDev",
     [
       "public",
       "games",
@@ -57120,7 +57120,7 @@
     ],
     "Tripwire Interactive",
     1596137645,
-    1613071179
+    1635521208
   ],
   [
     "fe38f7ef3de3439eb9f11044a58815ca",
@@ -57222,7 +57222,7 @@
   [
     "fea75e8012414775bc4634524ec1172d",
     "bd46d4ce259349e5bd8b3ded20274737",
-    "PeppermintStaging",
+    "Chivalry 2 - UnstableDev",
     [
       "public",
       "games",
@@ -57230,7 +57230,7 @@
     ],
     "Tripwire Interactive",
     1559638418,
-    1613071179
+    1635521523
   ],
   [
     "febdfa91837c4a91a923edb9b7a7f315",
