@@ -27483,6 +27483,18 @@
     1681199514
   ],
   [
+    "77feba919bb04916b8df02a2db0c5495",
+    "poodle",
+    "Twinmotion Subscription Reseller Seat Audience",
+    [
+      "audience",
+      "subscription"
+    ],
+    "Epic Games",
+    1711135254,
+    1713213297
+  ],
+  [
     "7819d7eaa77a49178ef494b2b12a808a",
     "7015c51a49be4592b5ba3ae2577723c5",
     "CheeseAudience",
@@ -34137,6 +34149,18 @@
     "Unit 2 Games",
     1603988586,
     1639580262
+  ],
+  [
+    "95d5acc7967042c685328d57f5af32e1",
+    "poodle",
+    "Twinmotion Subscription BizDev Seat Audience",
+    [
+      "audience",
+      "subscription"
+    ],
+    "Epic Games",
+    1711135196,
+    1713213297
   ],
   [
     "95f0590433f54febbb3ca6355dedc070",
@@ -55090,7 +55114,7 @@
     ],
     "Hi-Rez Studios",
     1571363584,
-    1710846002
+    1713183428
   ],
   [
     "f1dce65c4bf34b93bdaf2c2ef785c1cc",
