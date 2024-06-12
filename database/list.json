@@ -5777,7 +5777,7 @@
     ],
     "Ubisoft Entertainment",
     1549908533,
-    1714509301
+    1718118019
   ],
   [
     "18fc8e9328c0438094b6bb183c3720e3",
@@ -17058,7 +17058,7 @@
     ],
     "Ubisoft Entertainment",
     1566502198,
-    1710764509
+    1718120740
   ],
   [
     "4ac2c6af2aef4d6aabfdd5ad98680028",
@@ -21215,14 +21215,14 @@
   [
     "5c52836e6b9f4e0ca441f69fd15aa311",
     "impala",
-    "Tom Clancy's The Division 2 - Trial",
+    "Tom Clancy's The Division 2 - Trial Weekend",
     [
       "games",
       "applications"
     ],
     "Ubisoft Entertainment",
     1571093523,
-    1684771266
+    1718117882
   ],
   [
     "5c52e5d25fe843c7a8ce608fd5b46934",
@@ -24264,14 +24264,14 @@
   [
     "6955d87b85a64170860aa6e85c3f5f64",
     "carnation",
-    "Rainbow Six Siege Free Trial Week",
+    "Rainbow Six Siege Trial Weekend",
     [
       "games",
       "applications"
     ],
     "Ubisoft Entertainment",
     1566501889,
-    1710764509
+    1718120837
   ],
   [
     "695849c2b5584f3191015c4003107497",
@@ -32620,11 +32620,12 @@
     "impala",
     "ImpalaTrialAudience",
     [
-      "audience"
+      "audience",
+      "public"
     ],
     "Ubisoft Entertainment",
     1571093716,
-    1684771266
+    1718117757
   ],
   [
     "8f589457c9f64bc29eb572be49f6d44e",
@@ -44921,7 +44922,7 @@
     ],
     "Wizards of the Coast",
     1558376594,
-    1713279860
+    1718117773
   ],
   [
     "c51e71f623944827b9f5ae9c69751a6b",
@@ -55150,7 +55151,7 @@
     ],
     "Hi-Rez Studios",
     1571363584,
-    1715684451
+    1718103608
   ],
   [
     "f1dce65c4bf34b93bdaf2c2ef785c1cc",
