@@ -28727,7 +28727,7 @@
     ],
     "IO Interactive",
     1568142238,
-    1719493209
+    1721138130
   ],
   [
     "7dc6f4bb6f0e4d56b64c976211164e4f",
@@ -35840,6 +35840,17 @@
     1583854934
   ],
   [
+    "9d2c855e5b1741dda6f0d813165a4772",
+    "6504cc61472e498796e0b4963a201438",
+    "Exotica Pack",
+    [
+      "addons"
+    ],
+    "Red Barrels Inc",
+    1721138174,
+    1721138174
+  ],
+  [
     "9d57d292681946949c35f86d93ed8d05",
     "bb9f87bb3d0042258bb1c97397bc60f2",
     "500 Credits Audience",
@@ -38301,6 +38312,18 @@
     "Ubisoft Entertainment",
     1565792823,
     1676624356
+  ],
+  [
+    "a7a38b14a3954a5ba2bf618448fcb708",
+    "6504cc61472e498796e0b4963a201438",
+    "The Outlast Trials - The Exotica Pack_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Red Barrels Inc",
+    1721138174,
+    1721138174
   ],
   [
     "a7bc1f85bc384cc9a3ea8d7ced6baf1e",
