@@ -6289,7 +6289,7 @@
     ],
     "Motion Twin",
     1711465965,
-    1717412358
+    1724047220
   ],
   [
     "1b6eaf25fb504ed491df2619ea052772",
@@ -9087,6 +9087,17 @@
     "Epic Games",
     1496950638,
     1497301078
+  ],
+  [
+    "275713ce537d42f988032fbf341ffe09",
+    "lotus",
+    "Oxygen Not Included: The Frosty Planet Pack",
+    [
+      "addons"
+    ],
+    "Klei Entertainment",
+    1724102311,
+    1724102311
   ],
   [
     "277ff2c8cd8642428c7f0e03ba757bc4",
@@ -17422,7 +17433,7 @@
     ],
     "Motion Twin",
     1711465965,
-    1717412358
+    1724047220
   ],
   [
     "4c224a7755cc46b69d9d2127a0e9c2ed",
@@ -21849,7 +21860,7 @@
     ],
     "Motion Twin",
     1711465965,
-    1717412358
+    1724047221
   ],
   [
     "5e87c7dd8bed461f9b5630ac196a411f",
@@ -27495,6 +27506,18 @@
     1713213297
   ],
   [
+    "780d899fad18482b949a3308db8300b1",
+    "lotus",
+    "Oxygen Not Included: The Frosty Planet Pack_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Klei Entertainment",
+    1724102311,
+    1724102311
+  ],
+  [
     "7819d7eaa77a49178ef494b2b12a808a",
     "7015c51a49be4592b5ba3ae2577723c5",
     "CheeseAudience",
@@ -28007,7 +28030,7 @@
     ],
     "Klei Entertainment",
     1721776642,
-    1722545526
+    1724102311
   ],
   [
     "7a04b39c1f604827b4f9ce60460f0b5d",
@@ -37908,7 +37931,7 @@
     ],
     "Motion Twin",
     1711465965,
-    1717412358
+    1724047220
   ],
   [
     "a5b44100dcf145d8af75fa282a309c8c",
