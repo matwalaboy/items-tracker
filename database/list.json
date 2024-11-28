@@ -7969,7 +7969,7 @@
     ],
     "Epic Games",
     1730728711,
-    1730728711
+    1732717895
   ],
   [
     "22c327586a39448b844b90ea0b3d0231",
@@ -24403,7 +24403,7 @@
     ],
     "Epic Games",
     1709741796,
-    1714482243
+    1732717895
   ],
   [
     "69fbb0cef5724cf9a5ac9df9ca964ae9",
@@ -28066,7 +28066,7 @@
     ],
     "Klei Entertainment",
     1721776642,
-    1724102311
+    1732748419
   ],
   [
     "7a04b39c1f604827b4f9ce60460f0b5d",
@@ -46168,6 +46168,17 @@
     1596841794
   ],
   [
+    "c96ee6ac7e074ff894a3c7c1e94c14b2",
+    "lotus",
+    "Oxygen Not Included: The Bionic Booster Pack",
+    [
+      "addons"
+    ],
+    "Klei Entertainment",
+    1732748419,
+    1732748419
+  ],
+  [
     "c9924443d06e4b9bb8a67eee7ab0b4e4",
     "turtle",
     "Maneater Pre-Purchase",
@@ -51355,6 +51366,18 @@
     "Jackbox Games, Inc.",
     1548788693,
     1673527633
+  ],
+  [
+    "df67c07b66e84f8287703da7eba7b625",
+    "lotus",
+    "Oxygen Not Included: The Bionic Booster Pack_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Klei Entertainment",
+    1732748419,
+    1732748419
   ],
   [
     "df6efa113abf4afaa4f19113627c9bc0",
