@@ -5276,7 +5276,7 @@
     ],
     "Passion Republic Games",
     1710959069,
-    1711804782
+    1732848834
   ],
   [
     "169d5056c7834d2c8c75dea90db50906",
@@ -28886,6 +28886,17 @@
     1596645312
   ],
   [
+    "7e024df666214cfba238c53ba29e1501",
+    "16fc138ed83846bc90d923fe0d87ad72",
+    "GigaBash | Ultraman: Rising DLC",
+    [
+      "addons"
+    ],
+    "Passion Republic Games",
+    1732848834,
+    1732848834
+  ],
+  [
     "7e2adfa3d6bb4f39a9fa8dfa7edf579c",
     "3bff88989b2b4eee8ec2356ea9667b52",
     "DevStEliasAudience",
@@ -34787,6 +34798,18 @@
     "2K Games, Inc.",
     1592252497,
     1596063120
+  ],
+  [
+    "9828c33b91b548c4aac0a2ee5d13ccbe",
+    "16fc138ed83846bc90d923fe0d87ad72",
+    "GigaBash | Ultraman: Rising DLC_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Passion Republic Games",
+    1732848834,
+    1732848835
   ],
   [
     "982e6108fcec4aa19248a57e33a9a44e",
