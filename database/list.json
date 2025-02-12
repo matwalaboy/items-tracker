@@ -279,7 +279,7 @@
     ],
     "Epic Games",
     1432149076,
-    1738942435
+    1739310264
   ],
   [
     "0113432cfa334bacb051806c4731aebc",
@@ -556,7 +556,7 @@
     ],
     "Focus Entertainment Publishing",
     1560446304,
-    1733174757
+    1739242586
   ],
   [
     "022addcbe84f4ca794aab890c90f313b",
@@ -10009,7 +10009,7 @@
     ],
     "Epic Games",
     1538755069,
-    1738942435
+    1739310264
   ],
   [
     "2b0a56eec1364c84aea04bef5260942c",
@@ -13901,7 +13901,7 @@
     ],
     "Wizards of the Coast",
     1558376594,
-    1731427205
+    1739295483
   ],
   [
     "3df7692f0a8d49ee91859947dc371a8a",
@@ -18223,6 +18223,18 @@
     "Epic Games",
     1541104904,
     1541447907
+  ],
+  [
+    "4e60dfd2211d4d3cbaa8163c0821a2f6",
+    "06a97980aac14fdfb914ef603a113792",
+    "Star Trek Online – Shared Processing Pack_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Arc Games",
+    1739296170,
+    1739296171
   ],
   [
     "4e6489e8fa544a128a7a5c7554869afe",
@@ -46136,7 +46148,7 @@
     ],
     "Epic Games",
     1442871337,
-    1738942435
+    1739310264
   ],
   [
     "c89671f80dd344c3b640de057da14ddc",
@@ -48692,6 +48704,17 @@
     1574273725
   ],
   [
+    "d3f5a9fc162e4f5e975e978470865d8d",
+    "06a97980aac14fdfb914ef603a113792",
+    "Star Trek Online – Shared Processing Pack",
+    [
+      "addons"
+    ],
+    "Arc Games",
+    1739296170,
+    1739296170
+  ],
+  [
     "d3f7b93af94e4dc588d927f1f90a6458",
     "catnip",
     "CatnipStaging4DLC3",
@@ -48885,7 +48908,7 @@
     ],
     "Epic Games",
     1434649587,
-    1738942435
+    1739310264
   ],
   [
     "d4ca2ad0838a495db297da4a05c11ae6",
