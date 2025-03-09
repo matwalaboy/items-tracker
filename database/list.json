@@ -1246,6 +1246,17 @@
     1573179514
   ],
   [
+    "0518de5f29c94ce38d2e2defca14d8cb",
+    "4c436646d6f0400da483546a70e3a6e0",
+    "Empires of the Undergrowth - Exploding Ants",
+    [
+      "addons"
+    ],
+    "Hooded Horse Inc.",
+    1741427507,
+    1741427507
+  ],
+  [
     "0519316393c34314bc6e322bedacb01e",
     "45baf6c4e5df46f0b21593d5b2268769",
     "5000 Audience",
@@ -11932,6 +11943,18 @@
     "Wired Productions",
     1555087572,
     1557757180
+  ],
+  [
+    "34a5fd2b8c0a45e4be822f8bd0e85ba7",
+    "4c436646d6f0400da483546a70e3a6e0",
+    "Empires of the Undergrowth - Supporter Pack_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Hooded Horse Inc.",
+    1741427508,
+    1741427508
   ],
   [
     "34bfb437c0c040bca8a7d9a357423980",
@@ -37503,6 +37526,18 @@
     1578326731
   ],
   [
+    "a24c6b4e1585433ca63dd8f2ffd50088",
+    "4c436646d6f0400da483546a70e3a6e0",
+    "Empires of the Undergrowth - Exploding Ants_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Hooded Horse Inc.",
+    1741427508,
+    1741427508
+  ],
+  [
     "a26d522f60eb45d6933138643097f14c",
     "37baf50c268d47779020d73143bb02b0",
     "PiggyBank_ConsumableAudience",
@@ -39617,6 +39652,17 @@
     "Annapurna Interactive",
     1546973263,
     1557855835
+  ],
+  [
+    "ab8adebe92ec40b892fa1029415d890f",
+    "4c436646d6f0400da483546a70e3a6e0",
+    "Empires of the Undergrowth - Supporter Pack",
+    [
+      "addons"
+    ],
+    "Hooded Horse Inc.",
+    1741427508,
+    1741427508
   ],
   [
     "ab9349021db14f4f8e39568fb899d04c",
@@ -50850,7 +50896,7 @@
     ],
     "Hooded Horse Inc.",
     1711214847,
-    1734985192
+    1741427508
   ],
   [
     "db9c9cfd55234a90967d08afe076bed4",
