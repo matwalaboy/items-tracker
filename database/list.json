@@ -1844,7 +1844,7 @@
     ],
     "Thomas Happ Games LLC",
     1548333900,
-    1610582905
+    1748644848
   ],
   [
     "07dd3cfbd98b4d69bb2b974f58bd3c74",
@@ -5443,7 +5443,7 @@
     ],
     "Passion Republic Games",
     1710959069,
-    1741673415
+    1748574174
   ],
   [
     "169d5056c7834d2c8c75dea90db50906",
@@ -19556,7 +19556,7 @@
     ],
     "Thomas Happ Games LLC",
     1548333446,
-    1610582897
+    1748643191
   ],
   [
     "51ebd1f90d004e15a196cf91fe231695",
@@ -25693,6 +25693,18 @@
     "Saber Interactive",
     1554403549,
     1733755011
+  ],
+  [
+    "6bff8e27660c4d30a08a691e1f4af54f",
+    "16fc138ed83846bc90d923fe0d87ad72",
+    "GigaBash - MechaJURAS DLC_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Passion Republic Games",
+    1748574174,
+    1748574174
   ],
   [
     "6c0dca2bc78748c581722498bf08618e",
@@ -50722,6 +50734,17 @@
     "Ubisoft Entertainment",
     1556760201,
     1611076916
+  ],
+  [
+    "d67c269d4f4d483b9389bfcbddb4e830",
+    "16fc138ed83846bc90d923fe0d87ad72",
+    "GigaBash - MechaJURAS Free DLC",
+    [
+      "addons"
+    ],
+    "Passion Republic Games",
+    1748574174,
+    1748574174
   ],
   [
     "d67ca3851cc444918cd4bf92bf7717bc",
