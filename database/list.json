@@ -568,7 +568,7 @@
     ],
     "Focus Entertainment Publishing",
     1560446304,
-    1747156628
+    1749675963
   ],
   [
     "022addcbe84f4ca794aab890c90f313b",
@@ -9915,8 +9915,8 @@
       "applications"
     ],
     "Ludeon Studios",
-    1585863973,
-    1709680883
+    1749616888,
+    1749663713
   ],
   [
     "298f3d5d723745d98b26f72c69d2530d",
@@ -17664,7 +17664,7 @@
     ],
     "Ubisoft Entertainment",
     1566502198,
-    1725971802
+    1749675940
   ],
   [
     "4ac2c6af2aef4d6aabfdd5ad98680028",
@@ -19295,8 +19295,8 @@
       "applications"
     ],
     "Ludeon Studios",
-    1588899347,
-    1712763314
+    1749616888,
+    1749663712
   ],
   [
     "509d62b93e69494b84c07ec7e0b7f6b4",
@@ -25128,7 +25128,7 @@
     ],
     "Ubisoft Entertainment",
     1566501889,
-    1725971802
+    1749675940
   ],
   [
     "695849c2b5584f3191015c4003107497",
@@ -28323,8 +28323,8 @@
       "public"
     ],
     "Ludeon Studios",
-    1585863973,
-    1591720159
+    1749616888,
+    1749663712
   ],
   [
     "7703f5c56ea344df96658d07367ae70d",
@@ -43989,6 +43989,18 @@
     1572354002
   ],
   [
+    "b944989dc763419e95ae345c095b1fbf",
+    "7051eadbb8c2435caf32a9bc0dc17936",
+    "RimWorld - Odyssey_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Ludeon Studios",
+    1749663712,
+    1749663713
+  ],
+  [
     "b94cb13d85154b2480d7825c2283e916",
     "fn",
     "FortnitePreDeployA",
@@ -44297,6 +44309,17 @@
     "Digital Extremes",
     1747156604,
     1747156604
+  ],
+  [
+    "bad7249bf2df45f8be1645cea5c8a10e",
+    "7051eadbb8c2435caf32a9bc0dc17936",
+    "RimWorld - Odyssey",
+    [
+      "addons"
+    ],
+    "Ludeon Studios",
+    1749663712,
+    1749663712
   ],
   [
     "badf9d7a290d4b379ea3e8d150076aa4",
@@ -58778,8 +58801,8 @@
       "public"
     ],
     "Ludeon Studios",
-    1588969113,
-    1628201626
+    1749616888,
+    1749663712
   ],
   [
     "f98785c64058465fa1824caece9e58ec",
