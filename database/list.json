@@ -279,7 +279,7 @@
     ],
     "Epic Games",
     1432149076,
-    1739310264
+    1749759009
   ],
   [
     "0113432cfa334bacb051806c4731aebc",
@@ -8221,7 +8221,7 @@
     ],
     "Rockstar Games",
     1564004968,
-    1606841220
+    1749774487
   ],
   [
     "22aa590ed05943ad9e657188a68aff6d",
@@ -9189,6 +9189,18 @@
     1590525860
   ],
   [
+    "269c087f98d14fa7af32f6cceb1e9818",
+    "lotus",
+    "Oxygen Not Included: The Prehistoric Planet Pack_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Klei Entertainment",
+    1749746791,
+    1749746791
+  ],
+  [
     "269ed5234d73475bb32c18f3bebb9273",
     "jackal",
     "Dauntless - The Unseen Arrival Pack",
@@ -9442,7 +9454,7 @@
     ],
     "Klei Entertainment",
     1721942794,
-    1724180014
+    1749746791
   ],
   [
     "277ff2c8cd8642428c7f0e03ba757bc4",
@@ -27559,7 +27571,7 @@
     ],
     "Arc Games",
     1731623444,
-    1747321203
+    1749745452
   ],
   [
     "72fa75baa55e479f96b3436d95909ad4",
@@ -28504,7 +28516,7 @@
     ],
     "Klei Entertainment",
     1721942793,
-    1724180014
+    1749746791
   ],
   [
     "7819d7eaa77a49178ef494b2b12a808a",
@@ -29030,8 +29042,8 @@
       "applications"
     ],
     "Klei Entertainment",
-    1721776642,
-    1732748419
+    1548981487,
+    1749746791
   ],
   [
     "7a04b39c1f604827b4f9ce60460f0b5d",
@@ -29836,6 +29848,17 @@
     "Tripwire Interactive",
     1574821338,
     1594306679
+  ],
+  [
+    "7df1c687fd9d4266858de9b61e24f02b",
+    "lotus",
+    "Oxygen Not Included: The Prehistoric Planet Pack",
+    [
+      "addons"
+    ],
+    "Klei Entertainment",
+    1749746791,
+    1749746791
   ],
   [
     "7dfb6a7b8e1c4a109b858b09e9714843",
@@ -47737,7 +47760,7 @@
     ],
     "Klei Entertainment",
     1732216212,
-    1733945035
+    1749746791
   ],
   [
     "c9924443d06e4b9bb8a67eee7ab0b4e4",
@@ -53128,7 +53151,7 @@
     ],
     "Klei Entertainment",
     1732216212,
-    1733945035
+    1749746791
   ],
   [
     "df6efa113abf4afaa4f19113627c9bc0",
@@ -56437,7 +56460,7 @@
     ],
     "Ubisoft Entertainment",
     1549905809,
-    1745500682
+    1749733205
   ],
   [
     "ee097ac7fccb40e18ca7d77aa7c1e6ff",
@@ -58716,8 +58739,8 @@
       "public"
     ],
     "Klei Entertainment",
-    1721776642,
-    1722545526
+    1550069382,
+    1749746791
   ],
   [
     "f8d36989252a4f9fa735886c656837cc",
