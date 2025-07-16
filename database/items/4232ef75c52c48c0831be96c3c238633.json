@@ -1,7 +1,7 @@
 {
-  "id": "54b9b712e4e44b7a8794511cc03763af",
-  "title": "The Outlast Trials - Content Pack #3_AddonAudience",
-  "description": "The Outlast Trials - Content Pack #3_AddonAudience",
+  "id": "4232ef75c52c48c0831be96c3c238633",
+  "title": "The Outlast Trials - Porcelain Observer Pack_AddonAudience",
+  "description": "The Outlast Trials - Porcelain Observer Pack_AddonAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,9 +12,9 @@
   ],
   "namespace": "6504cc61472e498796e0b4963a201438",
   "status": "ACTIVE",
-  "creationDate": "2024-10-21T17:20:41.912Z",
-  "lastModifiedDate": "2025-07-15T14:00:04.982Z",
-  "entitlementName": "54b9b712e4e44b7a8794511cc03763af",
+  "creationDate": "2025-07-15T14:00:05.010Z",
+  "lastModifiedDate": "2025-07-15T14:00:05.846Z",
+  "entitlementName": "4232ef75c52c48c0831be96c3c238633",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "Red Barrels Inc",

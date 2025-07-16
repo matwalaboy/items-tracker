@@ -5873,6 +5873,17 @@
     1576771074
   ],
   [
+    "18556ed7c5844c6687cd51bd6ac916c1",
+    "6504cc61472e498796e0b4963a201438",
+    "The Outlast Trials - Spelunking For Your Life Pack",
+    [
+      "addons"
+    ],
+    "Red Barrels Inc",
+    1752588005,
+    1752588005
+  ],
+  [
     "1856418ff23e40f7b95cacbaab2caf20",
     "52b90f9a982a404781b189f6a7903226",
     "Dress Code Audience",
@@ -13183,8 +13194,8 @@
       "addons"
     ],
     "Red Barrels Inc",
-    1745330403,
-    1745330403
+    1738878332,
+    1752588004
   ],
   [
     "37e2b68d76244e3e837ff6477d20b124",
@@ -15405,6 +15416,18 @@
     "Santa Ragione",
     1591113999,
     1711475338
+  ],
+  [
+    "4232ef75c52c48c0831be96c3c238633",
+    "6504cc61472e498796e0b4963a201438",
+    "The Outlast Trials - Porcelain Observer Pack_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Red Barrels Inc",
+    1752588005,
+    1752588005
   ],
   [
     "4245f08eeca24317a164e17e5782dace",
@@ -18759,6 +18782,18 @@
     1739296171
   ],
   [
+    "4e63811a21dc4e4896aab3a3c6450ee3",
+    "6504cc61472e498796e0b4963a201438",
+    "The Outlast Trials - Terrified Toddler Pack_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Red Barrels Inc",
+    1752588004,
+    1752588005
+  ],
+  [
     "4e6489e8fa544a128a7a5c7554869afe",
     "f5d58106a0e143758ddf2bb30dd72ae2",
     "EscolarGeneralAudience",
@@ -20040,6 +20075,18 @@
     1616630402
   ],
   [
+    "53c04c2bccec44a7b7d1cbdcb34dbe78",
+    "6504cc61472e498796e0b4963a201438",
+    "The Outlast Trials - World of Heavyweights Pack_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Red Barrels Inc",
+    1752588005,
+    1752588005
+  ],
+  [
     "53d5a34ecb864e9aa99cc9cfd6099124",
     "affc33b82405457595a032f00284abd2",
     "DLC110 Audience",
@@ -20276,8 +20323,8 @@
       "public"
     ],
     "Red Barrels Inc",
-    1733842802,
-    1733842802
+    1729531241,
+    1752588004
   ],
   [
     "54d289e14d374109987374e4d631d00f",
@@ -25575,6 +25622,17 @@
     1730810180
   ],
   [
+    "6b05e02ec1844540aada37845177331e",
+    "6504cc61472e498796e0b4963a201438",
+    "The Outlast Trials - Terrified Toddler Pack",
+    [
+      "addons"
+    ],
+    "Red Barrels Inc",
+    1752588005,
+    1752588005
+  ],
+  [
     "6b08f0be83544dd1950139fb5ff410d6",
     "bb9f87bb3d0042258bb1c97397bc60f2",
     "PikesPeakCertGeneralAudience",
@@ -27481,8 +27539,8 @@
       "public"
     ],
     "Red Barrels Inc",
-    1745330403,
-    1745330404
+    1738878332,
+    1752588004
   ],
   [
     "72a201c508724272a21150e52a16194e",
@@ -37072,8 +37130,8 @@
       "addons"
     ],
     "Red Barrels Inc",
-    1733842802,
-    1733842802
+    1729531241,
+    1752588004
   ],
   [
     "9ca8584736344a52b57c10081cd90a92",
@@ -37204,7 +37262,7 @@
     ],
     "Red Barrels Inc",
     1717443945,
-    1721416811
+    1752588004
   ],
   [
     "9d57d292681946949c35f86d93ed8d05",
@@ -39763,7 +39821,7 @@
     ],
     "Red Barrels Inc",
     1717443945,
-    1721416811
+    1752588004
   ],
   [
     "a7bc1f85bc384cc9a3ea8d7ced6baf1e",
@@ -40262,6 +40320,17 @@
     "Proletariat, Inc.",
     1565118398,
     1596641805
+  ],
+  [
+    "a9e1cb5352b44330b44c448685a7b0f2",
+    "6504cc61472e498796e0b4963a201438",
+    "The Outlast Trials - Porcelain Observer Pack",
+    [
+      "addons"
+    ],
+    "Red Barrels Inc",
+    1752588005,
+    1752588005
   ],
   [
     "a9e59c9f7c544834b56b689ea56cc29e",
@@ -45601,6 +45670,18 @@
     "Good Shepherd Entertainment",
     1738150237,
     1748544805
+  ],
+  [
+    "c0af4972de1d48e2b304851137e5a008",
+    "6504cc61472e498796e0b4963a201438",
+    "The Outlast Trials - Spelunking For Your Life Pack_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Red Barrels Inc",
+    1752588005,
+    1752588005
   ],
   [
     "c0bc32bbc5d349f5a6fde13de09871c7",
@@ -59088,6 +59169,17 @@
     "Phoenix Labs",
     1556201380,
     1600361936
+  ],
+  [
+    "fa3edee2b87a48749897bf950e14dab9",
+    "6504cc61472e498796e0b4963a201438",
+    "The Outlast Trials - World of Heavyweights Pack",
+    [
+      "addons"
+    ],
+    "Red Barrels Inc",
+    1752588005,
+    1752588005
   ],
   [
     "fa47d5f474dc42df9e59ec179b9d831f",

@@ -1,7 +1,7 @@
 {
-  "id": "54b9b712e4e44b7a8794511cc03763af",
-  "title": "The Outlast Trials - Content Pack #3_AddonAudience",
-  "description": "The Outlast Trials - Content Pack #3_AddonAudience",
+  "id": "53c04c2bccec44a7b7d1cbdcb34dbe78",
+  "title": "The Outlast Trials - World of Heavyweights Pack_AddonAudience",
+  "description": "The Outlast Trials - World of Heavyweights Pack_AddonAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,9 +12,9 @@
   ],
   "namespace": "6504cc61472e498796e0b4963a201438",
   "status": "ACTIVE",
-  "creationDate": "2024-10-21T17:20:41.912Z",
-  "lastModifiedDate": "2025-07-15T14:00:04.982Z",
-  "entitlementName": "54b9b712e4e44b7a8794511cc03763af",
+  "creationDate": "2025-07-15T14:00:05.012Z",
+  "lastModifiedDate": "2025-07-15T14:00:05.846Z",
+  "entitlementName": "53c04c2bccec44a7b7d1cbdcb34dbe78",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "Red Barrels Inc",
