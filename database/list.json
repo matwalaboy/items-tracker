@@ -3430,8 +3430,8 @@
       "public"
     ],
     "Infogrames LLC",
-    1582837352,
-    1747414874
+    1751470130,
+    1752791510
   ],
   [
     "0d77417fa9e84b9687176807c45da7e0",
@@ -5822,8 +5822,8 @@
       "public"
     ],
     "Infogrames LLC",
-    1582837321,
-    1747414766
+    1751470130,
+    1752791510
   ],
   [
     "181a3d6aafca4b658c51970187a8aedd",
@@ -5892,8 +5892,8 @@
       "public"
     ],
     "Infogrames LLC",
-    1582836533,
-    1747414834
+    1751470130,
+    1752791510
   ],
   [
     "185cdf9fb76c418bae27841336701328",
@@ -10059,8 +10059,8 @@
       "developer"
     ],
     "Infogrames LLC",
-    1584990208,
-    1719417204
+    1751470130,
+    1752791510
   ],
   [
     "29da568810454587930011b042eb4ebb",
@@ -11267,8 +11267,8 @@
       "public"
     ],
     "Infogrames LLC",
-    1582837075,
-    1719417204
+    1751470130,
+    1752791510
   ],
   [
     "2fc6b6a71a3249fca823e9c24a5b7d9c",
@@ -11799,7 +11799,7 @@
     ],
     "Good Shepherd Entertainment",
     1738150237,
-    1748544805
+    1752738538
   ],
   [
     "32fb38c5c5f4412c9ee8cd434cffba88",
@@ -13746,8 +13746,8 @@
       "public"
     ],
     "Annapurna Interactive",
-    1556824927,
-    1605200438
+    1712175768,
+    1752765363
   ],
   [
     "3a9071eaf3c743e495c94379e04ae522",
@@ -21629,8 +21629,8 @@
       "applications"
     ],
     "Annapurna Interactive",
-    1556824927,
-    1605200372
+    1712175768,
+    1752765363
   ],
   [
     "5aee7f8ef9234753948f55cc30c7b7a3",
@@ -21946,7 +21946,7 @@
     ],
     "CD PROJEKT RED",
     1559934209,
-    1737630723
+    1752749219
   ],
   [
     "5bf69aebf2e64216af40ed04574f708e",
@@ -23513,8 +23513,8 @@
       "developer"
     ],
     "Infogrames LLC",
-    1585068275,
-    1719417204
+    1751470130,
+    1752791510
   ],
   [
     "61b3d72cda0c48ada89f36290434f99b",
@@ -24860,8 +24860,8 @@
       "public"
     ],
     "Infogrames LLC",
-    1582835999,
-    1719417204
+    1751470130,
+    1752791510
   ],
   [
     "680a535fbfd14082bbe52588530d7abb",
@@ -28789,8 +28789,8 @@
       "applications"
     ],
     "Annapurna Interactive",
-    1559849747,
-    1638454629
+    1712175990,
+    1752765312
   ],
   [
     "78aa5fa162494a0e9b5e717ca0e3d000",
@@ -31152,7 +31152,7 @@
     ],
     "Infogrames LLC",
     1568312658,
-    1719417204
+    1752791511
   ],
   [
     "83190f6b26394bcb8b176212fa4b74c9",
@@ -34622,8 +34622,8 @@
       "public"
     ],
     "Infogrames LLC",
-    1568312658,
-    1719417204
+    1751470130,
+    1752791510
   ],
   [
     "925eea7643fc461193e5796c9b91bf2c",
@@ -35226,6 +35226,18 @@
     "Unknown Worlds Entertainment",
     1548360388,
     1620963933
+  ],
+  [
+    "94d1da2189634b208d75ea8472a3a730",
+    "52b90f9a982a404781b189f6a7903226",
+    "Totally Reliable Delivery Service Atari Attire_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Infogrames LLC",
+    1752791511,
+    1752791512
   ],
   [
     "94dab38f883a4795a14fef45cce699bd",
@@ -38952,6 +38964,17 @@
     "United Games Entertainment GmbH",
     1555696036,
     1749845868
+  ],
+  [
+    "a3cfb7094eaf431892bf1b72bf346f16",
+    "52b90f9a982a404781b189f6a7903226",
+    "Totally Reliable Delivery Service Mascot Mayhem",
+    [
+      "addons"
+    ],
+    "Infogrames LLC",
+    1752791511,
+    1752791511
   ],
   [
     "a3e8ec5696e241d382669f7b1761d6fb",
@@ -43458,8 +43481,8 @@
       "applications"
     ],
     "Infogrames LLC",
-    1568312658,
-    1747415821
+    1751470131,
+    1752791512
   ],
   [
     "b655a50d5e2b4601b91f927e127c34f2",
@@ -43582,6 +43605,18 @@
     "Epic Games",
     1520366494,
     1523384027
+  ],
+  [
+    "b6e63283907f4535a98c3cefb3337388",
+    "52b90f9a982a404781b189f6a7903226",
+    "Totally Reliable Delivery Service Mascot Mayhem_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Infogrames LLC",
+    1752791511,
+    1752791512
   ],
   [
     "b7251af860c6439eb70cc7683d30833c",
@@ -45669,7 +45704,7 @@
     ],
     "Good Shepherd Entertainment",
     1738150237,
-    1748544805
+    1752738538
   ],
   [
     "c0af4972de1d48e2b304851137e5a008",
@@ -46594,7 +46629,7 @@
     ],
     "CD PROJEKT RED",
     1588088125,
-    1716985372
+    1752749196
   ],
   [
     "c4aa7780f1ad4084aea750b7e28873e8",
@@ -53983,6 +54018,17 @@
     "Ubisoft Entertainment",
     1598898059,
     1714509206
+  ],
+  [
+    "e201a7d5895c403bae1c50169ad029cc",
+    "52b90f9a982a404781b189f6a7903226",
+    "Totally Reliable Delivery Service Atari Attire",
+    [
+      "addons"
+    ],
+    "Infogrames LLC",
+    1752791511,
+    1752791511
   ],
   [
     "e2050e5bd8c9484cac1e1cf79a0c0826",
