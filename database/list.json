@@ -14223,6 +14223,18 @@
     1735670352
   ],
   [
+    "3cd79eb8680c4c0b927b564bcf4ef56e",
+    "5a82d5954a1943d79dc6b49cde2fe972",
+    "Predator: Hunting Grounds - Ninja Predator_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "IllFonic",
+    1754409074,
+    1754409074
+  ],
+  [
     "3ce3782bfb70481aa4868d81b38c8e03",
     "middlemist",
     "Investigator Pack DLC audience",
@@ -20762,6 +20774,17 @@
     "Dovetail Games",
     1550860116,
     1557161838
+  ],
+  [
+    "56b12294fab342ebbeed4489310b6ed5",
+    "5a82d5954a1943d79dc6b49cde2fe972",
+    "Predator: Hunting Grounds - Oni Predator",
+    [
+      "addons"
+    ],
+    "IllFonic",
+    1754409074,
+    1754409074
   ],
   [
     "56b64da93ee04cf090379d6bc41344de",
@@ -36973,7 +36996,7 @@
     ],
     "IllFonic",
     1573595762,
-    1753809441
+    1754409074
   ],
   [
     "9bac3490ebda48159405488d18299e85",
