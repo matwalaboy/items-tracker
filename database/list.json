@@ -4458,8 +4458,8 @@
       "public"
     ],
     "Paradox Interactive",
-    1552615911,
-    1733872056
+    1733872374,
+    1755639838
   ],
   [
     "124200d2aaa847eb91eb518cecbf6369",
@@ -4911,8 +4911,8 @@
       "public"
     ],
     "Paradox Interactive",
-    1552615826,
-    1733872056
+    1733872374,
+    1755639838
   ],
   [
     "1444e7244c1e4a35a8156bfc821d1b93",
@@ -10261,14 +10261,14 @@
   [
     "2a8f3c0d466f47ca82a8553df6ed2f52",
     "nemesia",
-    "Vampire: The Masquerade – Bloodlines 2",
+    "Vampire: The Masquerade® - Bloodlines™ 2",
     [
       "games",
       "applications"
     ],
     "Paradox Interactive",
-    1552479082,
-    1712075865
+    1733872374,
+    1755639839
   ],
   [
     "2aa2b83600da4f4e898d2b80aeefc054",
@@ -13016,6 +13016,18 @@
     "Quantic Dream",
     1559048775,
     1576155597
+  ],
+  [
+    "36f6c1e0a14d4894840fe1aa9f8ff041",
+    "nemesia",
+    "PrePurchaseNemesia - Testing Edition_EditionAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Paradox Interactive",
+    1754942305,
+    1755639838
   ],
   [
     "370230d047da4ab98a95f962f7981aba",
@@ -20787,6 +20799,18 @@
     1586792543
   ],
   [
+    "56a220f4199b4d178ae5974f95b59d2f",
+    "nemesia",
+    "Santa Monica Memories_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Paradox Interactive",
+    1742826844,
+    1755639838
+  ],
+  [
     "56afd26caf384ca09df2e4b64af4c14b",
     "trainsimworld",
     "TrainSimStaging",
@@ -26108,6 +26132,17 @@
     "Sold Out",
     1567015606,
     1598357005
+  ],
+  [
+    "6d2b1518ef2a4412a6f4db23b84ae343",
+    "nemesia",
+    "Vampire: The Masquerade® - Bloodlines™ 2 - Nostalgia Jukebox",
+    [
+      "addons"
+    ],
+    "Paradox Interactive",
+    1743692293,
+    1755639839
   ],
   [
     "6d2dcb9ed0bd42dea4b2f23cc43ba92f",
@@ -37469,6 +37504,18 @@
     1603278329
   ],
   [
+    "9d83917ac55e492baef73e03eebd7c1f",
+    "nemesia",
+    "Shadows & Silk_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Paradox Interactive",
+    1742826964,
+    1755639838
+  ],
+  [
     "9d84101cd23a4ebe8490e575fd88c6a4",
     "a514bb4f67f045e0a80351e8ee64ffec",
     "MtLincoln",
@@ -40529,8 +40576,8 @@
       "public"
     ],
     "Paradox Interactive",
-    1552618978,
-    1733872056
+    1733872374,
+    1755639838
   ],
   [
     "a9f95b60e365472f86bb6b81b8cbb1ae",
@@ -43007,6 +43054,17 @@
     "Night School Studio, LLC",
     1552664178,
     1572447789
+  ],
+  [
+    "b3b45318920840c2bfea9e407dacaa8b",
+    "nemesia",
+    "Vampire: The Masquerade® - Bloodlines™ 2 - Shadows & Silk",
+    [
+      "addons"
+    ],
+    "Paradox Interactive",
+    1742826964,
+    1755639839
   ],
   [
     "b3d1cbb2079b48f2985426734f35eb6b",
@@ -46448,6 +46506,18 @@
     "Plaion",
     1552396651,
     1663685933
+  ],
+  [
+    "c2ed1b9dfa104f259ffdcaa578c6a807",
+    "nemesia",
+    "Bloodlines Nostalgia Jukebox_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Paradox Interactive",
+    1743692292,
+    1755639838
   ],
   [
     "c2f40668607c4be79a3e341c0190ce1e",
@@ -54278,6 +54348,17 @@
     1708110816
   ],
   [
+    "e24d9fecc5cf436f827ceba7b047e05a",
+    "nemesia",
+    "Vampire: The Masquerade® - Bloodlines™ 2 - Santa Monica Memories",
+    [
+      "addons"
+    ],
+    "Paradox Interactive",
+    1742826844,
+    1755639839
+  ],
+  [
     "e2778eb93caa473bbb5f13cd701c23a6",
     "d33c2a64808e434b85eb1329f65431b1",
     "DevMoonstoneAudience",
@@ -54687,8 +54768,8 @@
       "public"
     ],
     "Paradox Interactive",
-    1552479368,
-    1733872056
+    1733872374,
+    1755639838
   ],
   [
     "e4765ad014134607b489a06cba2da950",
@@ -56552,6 +56633,18 @@
     "Jackbox Games, Inc.",
     1742338945,
     1742570613
+  ],
+  [
+    "ec99158dd7d646f7a0f086b90053f591",
+    "nemesia",
+    "Nemesia - Testing Edition_EditionAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Paradox Interactive",
+    1754942305,
+    1755639838
   ],
   [
     "eca7d66f921f481ebc97a138edcd1f91",
