@@ -3822,6 +3822,18 @@
     1747156611
   ],
   [
+    "0f54a7ec1fe44113bf6e14712055b09c",
+    "c03a3687567a4cf3910ea5ec7279664e",
+    "ScourgeBringer",
+    [
+      "games",
+      "applications"
+    ],
+    "Plug In Digital SAS",
+    1756901310,
+    1756901310
+  ],
+  [
     "0f6ba5bb334a4cda8b64b16a86bd2d0b",
     "14ee004dadc142faaaece5a6270fb628",
     "KurilianStaging",
@@ -24081,8 +24093,8 @@
       "public"
     ],
     "Plug In Digital SAS",
-    1756200256,
-    1756200256
+    1745836047,
+    1756901310
   ],
   [
     "635efca244f4404fbe6ed0600df8682b",
@@ -29531,8 +29543,8 @@
       "applications"
     ],
     "Plug In Digital SAS",
-    1756200256,
-    1756200256
+    1745836047,
+    1756901310
   ],
   [
     "7b418dd5b36e44be8ef44aaa0247e76d",
@@ -35994,6 +36006,18 @@
     "Proletariat, Inc.",
     1565118419,
     1596641805
+  ],
+  [
+    "974950462f0344819b647914dd09baf6",
+    "c03a3687567a4cf3910ea5ec7279664e",
+    "ScourgeBringer_IOS_BaseGameAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Plug In Digital SAS",
+    1756901310,
+    1756901310
   ],
   [
     "974e25b4bce6425d9af79cd5ffd64152",
