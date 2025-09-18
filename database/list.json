@@ -4404,6 +4404,18 @@
     1497301963
   ],
   [
+    "12143e43c3294a7da0d46f99d3a1898d",
+    "nemesia",
+    "Loose Cannon_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Paradox Interactive",
+    1758124712,
+    1758124712
+  ],
+  [
     "12160a20dbb645d7a3672959b5d7ed03",
     "phlox",
     "Griftlands",
@@ -4471,7 +4483,7 @@
     ],
     "Paradox Interactive",
     1733872374,
-    1755639838
+    1758124711
   ],
   [
     "124200d2aaa847eb91eb518cecbf6369",
@@ -4924,7 +4936,7 @@
     ],
     "Paradox Interactive",
     1733872374,
-    1755639838
+    1758124711
   ],
   [
     "1444e7244c1e4a35a8156bfc821d1b93",
@@ -10280,7 +10292,7 @@
     ],
     "Paradox Interactive",
     1733872374,
-    1755848635
+    1758124712
   ],
   [
     "2aa2b83600da4f4e898d2b80aeefc054",
@@ -13784,6 +13796,17 @@
     "Enhance Experience Inc.",
     1560969916,
     1717720794
+  ],
+  [
+    "3a81c44d4df7478197051ff108f75a2f",
+    "nemesia",
+    "Vampire: The Masquerade® - Bloodlines™ 2 - Flower & the Flame",
+    [
+      "addons"
+    ],
+    "Paradox Interactive",
+    1758124712,
+    1758124712
   ],
   [
     "3a8b329f91794815b2dce62a8bef0f90",
@@ -20820,7 +20843,7 @@
     ],
     "Paradox Interactive",
     1742826844,
-    1755639838
+    1758124711
   ],
   [
     "56afd26caf384ca09df2e4b64af4c14b",
@@ -28342,6 +28365,18 @@
     1747156605
   ],
   [
+    "75b4cb7f36004277ac25a6efe1e1419f",
+    "nemesia",
+    "The Flower & the Flame_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Paradox Interactive",
+    1758124712,
+    1758124712
+  ],
+  [
     "75cbf00e7bbb45f383367197b94e816a",
     "SeaQA",
     "Emergent Test Item - 1",
@@ -32147,6 +32182,18 @@
     "Epic Games",
     1570389172,
     1605550896
+  ],
+  [
+    "86222453b61f444d9da489a2ba6af69e",
+    "nemesia",
+    "Expansion Pass_SeasonPassAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Paradox Interactive",
+    1758124711,
+    1758124711
   ],
   [
     "862732ea194f4745b826fa9c8d891018",
@@ -37561,7 +37608,7 @@
     ],
     "Paradox Interactive",
     1742826964,
-    1755639838
+    1758124712
   ],
   [
     "9d84101cd23a4ebe8490e575fd88c6a4",
@@ -40625,7 +40672,7 @@
     ],
     "Paradox Interactive",
     1733872374,
-    1755848635
+    1758124711
   ],
   [
     "a9f95b60e365472f86bb6b81b8cbb1ae",
@@ -43112,7 +43159,7 @@
     ],
     "Paradox Interactive",
     1742826964,
-    1755639839
+    1758124712
   ],
   [
     "b3d1cbb2079b48f2985426734f35eb6b",
@@ -49651,6 +49698,17 @@
     1602098699
   ],
   [
+    "d0369b1919e2491d8fb047599c1e392d",
+    "nemesia",
+    "Vampire: The Masquerade® - Bloodlines™ 2 - Loose Cannon",
+    [
+      "addons"
+    ],
+    "Paradox Interactive",
+    1758124712,
+    1758124712
+  ],
+  [
     "d037e916b9974a039836b7e16e1faf27",
     "calluna",
     "CallunaDevAudience",
@@ -54416,7 +54474,7 @@
     ],
     "Paradox Interactive",
     1742826844,
-    1755639839
+    1758124712
   ],
   [
     "e2778eb93caa473bbb5f13cd701c23a6",
@@ -54829,7 +54887,7 @@
     ],
     "Paradox Interactive",
     1733872374,
-    1755848635
+    1758124711
   ],
   [
     "e4765ad014134607b489a06cba2da950",
