@@ -2843,6 +2843,17 @@
     1590616063
   ],
   [
+    "0b595a01bcd24fe6a9bf73a2db534829",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Warframe: Wukong Qitian Collection",
+    [
+      "addons"
+    ],
+    "Digital Extremes",
+    1759504548,
+    1759504548
+  ],
+  [
     "0b5b119c5b774b988c2e235a83c3f354",
     "fn",
     "Influencer Banner - Nefarius AP",
@@ -3469,6 +3480,18 @@
     "Sega of America",
     1593484284,
     1626891827
+  ],
+  [
+    "0da9afd349444f27a9a1158d1a7be782",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Warframe: Nokko Bundle_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Digital Extremes",
+    1759504548,
+    1759504548
   ],
   [
     "0db5ce1793674213a2e9d73a8f5dbdb6",
@@ -20913,7 +20936,7 @@
     ],
     "Digital Extremes",
     1591979209,
-    1750864098
+    1759504548
   ],
   [
     "5731f9ef15744a7c8f22db39b941a081",
@@ -46373,6 +46396,18 @@
     1747156610
   ],
   [
+    "c1fe2e7f81974cf48a06abac610271d9",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Warframe: Wukong Qitian Collection_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Digital Extremes",
+    1759504548,
+    1759504548
+  ],
+  [
     "c20237aaea0a4c3da6b61957ebbce9f3",
     "1b8a504ec52d4430b65cca2990ad6c7f",
     "PeridotGeneralAudience",
@@ -57170,6 +57205,17 @@
     "Ubisoft Entertainment",
     1571852617,
     1574351111
+  ],
+  [
+    "eeb1741ed4f54edda9478022ae88b891",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Warframe: Nokko Bundle",
+    [
+      "addons"
+    ],
+    "Digital Extremes",
+    1759504548,
+    1759504548
   ],
   [
     "eeb68bebe2ea49c8845639a8d2d9e981",
