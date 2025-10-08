@@ -30078,6 +30078,17 @@
     1558447022
   ],
   [
+    "7d87b2cca1a64edfbdf6b0a8202a073d",
+    "06a97980aac14fdfb914ef603a113792",
+    "Star Trek Online – Miniature Spore Relay Pack",
+    [
+      "addons"
+    ],
+    "Arc Games",
+    1759845603,
+    1759845603
+  ],
+  [
     "7d8dad8132434284a61f1b2b7ab5e35b",
     "oleander",
     "OleanderDevDLCAudience",
@@ -49331,6 +49342,18 @@
     "2K Games, Inc.",
     1572444598,
     1592254375
+  ],
+  [
+    "ce5a7e6c55c849719eb4832518da15f7",
+    "06a97980aac14fdfb914ef603a113792",
+    "Star Trek Online – Miniature Spore Relay Pack_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Arc Games",
+    1759845603,
+    1759845604
   ],
   [
     "ce5e6a5299ee44d2a9932fec72701514",
