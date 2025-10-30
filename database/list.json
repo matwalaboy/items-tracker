@@ -8532,6 +8532,18 @@
     1596439060
   ],
   [
+    "22f5127dbf0344138b7e8e06f908c8b6",
+    "c22a84689e1a4ad083b2b4ba0ee396f4",
+    "Icewind Dale: Enhanced Edition",
+    [
+      "games",
+      "applications"
+    ],
+    "Beamdog",
+    1761752624,
+    1761752624
+  ],
+  [
     "2300dc0a5ec94819acda92e3549fb140",
     "ocn",
     "Small Pack",
@@ -45473,6 +45485,18 @@
     "Metronomik Sdn. Bhd.",
     1567013898,
     1758036854
+  ],
+  [
+    "bae2bcce4f384578b75885008ae95eb7",
+    "c22a84689e1a4ad083b2b4ba0ee396f4",
+    "Icewind Dale Enhanced Edition_Android_BaseGameAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Beamdog",
+    1761752624,
+    1761752624
   ],
   [
     "bb0084a063504ec6872a126b3d81184a",
