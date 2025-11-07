@@ -1009,6 +1009,17 @@
     1500047476
   ],
   [
+    "041151999d944ca3bdb7777ed2472976",
+    "aeac94c7a11048758064b82f8f8d20ed",
+    "Mount & Blade II: Bannerlord - War Sails",
+    [
+      "addons"
+    ],
+    "TaleWorlds Entertainment",
+    1762415909,
+    1762415909
+  ],
+  [
     "0411de820d414c89a8c4e988c6249b5f",
     "7015c51a49be4592b5ba3ae2577723c5",
     "DayAudience",
@@ -10541,7 +10552,7 @@
     ],
     "TaleWorlds Entertainment",
     1711306636,
-    1753692497
+    1762415909
   ],
   [
     "2ae28b06d47d4062bf14ca3f82bf90f0",
@@ -46353,6 +46364,18 @@
     "562 Interactive LLC",
     1595269124,
     1598528974
+  ],
+  [
+    "bec9e73c1ea542c6ba39a5d660205d85",
+    "aeac94c7a11048758064b82f8f8d20ed",
+    "Mount & Blade II: Bannerlord - War Sails_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "TaleWorlds Entertainment",
+    1762415909,
+    1762415909
   ],
   [
     "bf038e075b82466f944fc379fc7b745f",
