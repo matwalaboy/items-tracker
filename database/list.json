@@ -2752,6 +2752,18 @@
     1592254375
   ],
   [
+    "0af51701f2a046f383430dcbf4e1fe55",
+    "5645a537b6a44f6f82d122729f3253ed",
+    "Mutazione",
+    [
+      "games",
+      "applications"
+    ],
+    "Akupara Games",
+    1763590460,
+    1763590460
+  ],
+  [
     "0af87147416a4faabfc51493435c60f8",
     "impala",
     "ImpalaDevAudience",
@@ -9567,6 +9579,18 @@
     1567784712
   ],
   [
+    "26e77cc0b8364e60a9231a6decad114a",
+    "5645a537b6a44f6f82d122729f3253ed",
+    "Mutazione_Android_BaseGameAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Akupara Games",
+    1763590460,
+    1763590461
+  ],
+  [
     "26f79209063d435d8988647a5e2e14c2",
     "5c0d568c71174cff8026db2606771d96",
     "Into The Breach",
@@ -10698,6 +10722,18 @@
     "2K Games, Inc.",
     1579276839,
     1670365321
+  ],
+  [
+    "2b304be4d4d5424fbd479513610b38e8",
+    "5645a537b6a44f6f82d122729f3253ed",
+    "Mutazione_IOS_BaseGameAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Akupara Games",
+    1763590460,
+    1763590461
   ],
   [
     "2b4bd9cd17464c51b26667aeb8c3e0fb",
@@ -14122,7 +14158,7 @@
     ],
     "Akupara Games",
     1582846259,
-    1584023318
+    1763590460
   ],
   [
     "3ac58c11ad8945bebda9f604e4bef284",
@@ -33907,6 +33943,18 @@
     1596163511
   ],
   [
+    "8bfb239639094ee8a06308ce08c7a34c",
+    "5645a537b6a44f6f82d122729f3253ed",
+    "Mutazione",
+    [
+      "games",
+      "applications"
+    ],
+    "Akupara Games",
+    1763590460,
+    1763590460
+  ],
+  [
     "8bfb728059fc4c3cb23b816853d12637",
     "holly",
     "HollyStaging",
@@ -51344,7 +51392,7 @@
     ],
     "Akupara Games",
     1582846259,
-    1584053840
+    1763590460
   ],
   [
     "d3a83589664b44a5a7be5ebc98637296",
