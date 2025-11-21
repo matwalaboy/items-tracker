@@ -1,7 +1,7 @@
 {
-  "id": "df67c07b66e84f8287703da7eba7b625",
-  "title": "Oxygen Not Included: The Bionic Booster Pack_AddonAudience",
-  "description": "Oxygen Not Included: The Bionic Booster Pack_AddonAudience",
+  "id": "2e94d380784d4f348b03bfdc2ba07424",
+  "title": "Oxygen Not Included: Neutronium Cosmetics Pack_AddonAudience",
+  "description": "Oxygen Not Included: Neutronium Cosmetics Pack_AddonAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,9 +12,9 @@
   ],
   "namespace": "lotus",
   "status": "ACTIVE",
-  "creationDate": "2024-11-21T19:10:12.061Z",
-  "lastModifiedDate": "2025-11-21T00:03:58.250Z",
-  "entitlementName": "df67c07b66e84f8287703da7eba7b625",
+  "creationDate": "2025-11-21T00:03:58.284Z",
+  "lastModifiedDate": "2025-11-21T00:03:59.094Z",
+  "entitlementName": "2e94d380784d4f348b03bfdc2ba07424",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "Klei Entertainment",
