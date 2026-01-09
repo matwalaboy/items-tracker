@@ -1,7 +1,7 @@
 {
-  "id": "3cd79eb8680c4c0b927b564bcf4ef56e",
-  "title": "Predator: Hunting Grounds - Ninja Predator_AddonAudience",
-  "description": "Predator: Hunting Grounds - Ninja Predator_AddonAudience",
+  "id": "35b70d82bc0a492bbbbfe06e40c59174",
+  "title": "Jouton Predator_AddonAudience",
+  "description": "Jouton Predator_AddonAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,9 +12,9 @@
   ],
   "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
   "status": "ACTIVE",
-  "creationDate": "2025-07-15T19:18:21.034Z",
-  "lastModifiedDate": "2026-01-08T22:04:29.107Z",
-  "entitlementName": "3cd79eb8680c4c0b927b564bcf4ef56e",
+  "creationDate": "2026-01-08T22:04:29.126Z",
+  "lastModifiedDate": "2026-01-08T22:04:29.438Z",
+  "entitlementName": "35b70d82bc0a492bbbbfe06e40c59174",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "IllFonic",
