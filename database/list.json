@@ -3171,6 +3171,17 @@
     1692352435
   ],
   [
+    "0be7a6687dbb4ece8c797c121aec4d87",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Warframe: Vauban Heirloom Collection",
+    [
+      "addons"
+    ],
+    "Digital Extremes",
+    1770306508,
+    1770306508
+  ],
+  [
     "0bedf73dc07045cebc9cdc089810df29",
     "coriander",
     "LOM_DLC_Audience_redeemable",
@@ -18102,7 +18113,7 @@
     ],
     "Epic Games",
     1494634432,
-    1767950053
+    1770282908
   ],
   [
     "49034acd5241476f95b6cd5d41c51c4e",
@@ -27210,7 +27221,7 @@
     ],
     "Epic Dev Test Account",
     1568142238,
-    1749250862
+    1770289117
   ],
   [
     "6ca6c5f6134f4ec2927fff48cacd7b69",
@@ -27633,9 +27644,9 @@
       "games",
       "applications"
     ],
-    "Arc Games",
+    "XD",
     1747782747,
-    1747852026
+    1770313068
   ],
   [
     "6e7e8e5c9bcc4352bec6bb2fa5134ad2",
@@ -30602,6 +30613,18 @@
     1582041195
   ],
   [
+    "7a1dddfc06ee4b65accdbc8728c2810f",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Warframe: Vauban Heirloom Collection_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Digital Extremes",
+    1770306508,
+    1770306508
+  ],
+  [
     "7a2fd19a4dc44e689f477db83f0cca3b",
     "SeaQA",
     "Test  Item For Price Engine Junit Smoke Test(Don't Delete)",
@@ -31361,7 +31384,7 @@
     ],
     "IO Interactive",
     1568142238,
-    1767644251
+    1770289117
   ],
   [
     "7db2233667134ee38c531ee43a2e431f",
@@ -47779,9 +47802,9 @@
       "games",
       "applications"
     ],
-    "Arc Games",
+    "XD",
     1589318354,
-    1712902123
+    1770313068
   ],
   [
     "c023c1be61c2404382c815983e4704fb",
@@ -58973,9 +58996,9 @@
       "audience",
       "public"
     ],
-    "Arc Games",
+    "XD",
     1747782747,
-    1747852026
+    1770313068
   ],
   [
     "ebe3a1a605d04faa8f0cb949d6d1a329",
