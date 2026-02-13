@@ -1519,6 +1519,18 @@
     1608210076
   ],
   [
+    "05e84023496543728a1ef75bc528a915",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Warframe: Fulmin Battlekit_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Digital Extremes",
+    1770929768,
+    1770929768
+  ],
+  [
     "05ec18d07e344737b560a147c7164c6b",
     "badb0ee71b474ed591ec43212547cfc8",
     "Obsidian Pack Audience",
@@ -20876,6 +20888,17 @@
     "Frogwares",
     1581513585,
     1585837807
+  ],
+  [
+    "5313efadaed74123ae6f19176cb30da4",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Warframe: Fulmin Battlekit",
+    [
+      "addons"
+    ],
+    "Digital Extremes",
+    1770929768,
+    1770929768
   ],
   [
     "53218dfe062d43d0b2e6601408676aba",
@@ -41133,7 +41156,7 @@
     ],
     "Epic Games",
     1535665966,
-    1767825370
+    1770936324
   ],
   [
     "a492dd908f4f46048d5356d730a174ab",
@@ -61097,7 +61120,7 @@
     ],
     "Epic Games",
     1571249245,
-    1767825370
+    1770936312
   ],
   [
     "f5d672ee07684a99b9f3dd5538b36ddd",
