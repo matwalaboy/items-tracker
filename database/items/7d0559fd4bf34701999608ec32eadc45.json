@@ -1,7 +1,7 @@
 {
-  "id": "7a1dddfc06ee4b65accdbc8728c2810f",
-  "title": "Warframe: Vauban Heirloom Collection_AddonAudience",
-  "description": "Warframe: Vauban Heirloom Collection_AddonAudience",
+  "id": "7d0559fd4bf34701999608ec32eadc45",
+  "title": "Warframe: Eat and Run Collection_AddonAudience",
+  "description": "Warframe: Eat and Run Collection_AddonAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,9 +12,9 @@
   ],
   "namespace": "244aaaa06bfa49d088205b13b9d2d115",
   "status": "ACTIVE",
-  "creationDate": "2026-01-07T18:01:25.044Z",
-  "lastModifiedDate": "2026-03-19T22:24:07.975Z",
-  "entitlementName": "7a1dddfc06ee4b65accdbc8728c2810f",
+  "creationDate": "2026-03-19T22:24:08.007Z",
+  "lastModifiedDate": "2026-03-19T22:24:08.440Z",
+  "entitlementName": "7d0559fd4bf34701999608ec32eadc45",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "Digital Extremes",
