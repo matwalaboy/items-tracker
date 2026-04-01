@@ -2661,7 +2661,7 @@
     ],
     "Epic Games",
     1543305773,
-    1705390587
+    1774942552
   ],
   [
     "0a73d7f08ccb42c2ac9053ef6e5b61a2",
@@ -13778,6 +13778,17 @@
     1594306679
   ],
   [
+    "37885e295c5844199a1c1c4dee6629ab",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Warframe: Voruna Prime Access - Accessories Pack",
+    [
+      "addons"
+    ],
+    "Digital Extremes",
+    1774968902,
+    1774968902
+  ],
+  [
     "378915183f494efaa0e2f128d6dd1f79",
     "ecebf45065bc4993abfe0e84c40ff18e",
     "JasperDevAudience",
@@ -15792,6 +15803,18 @@
     "LCG Entertainment, Inc.",
     1576029506,
     1711473067
+  ],
+  [
+    "403893784d3a4321819759e21ba7edc2",
+    "jaguar",
+    "Subnautica Free Weekend",
+    [
+      "games",
+      "applications"
+    ],
+    "Unknown Worlds Entertainment",
+    1774923436,
+    1774923436
   ],
   [
     "4039426bcb55408c9665350ab2200d46",
@@ -28355,6 +28378,17 @@
     1755714708
   ],
   [
+    "70bb662bf5ba45659f4d9a6c82714842",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Warframe: Voruna Prime Access - Complete Pack",
+    [
+      "addons"
+    ],
+    "Digital Extremes",
+    1774968902,
+    1774968902
+  ],
+  [
     "70c30983cf0948e4bffc23505f232b11",
     "cosmos",
     "Cosmos Pre-Purchase Audience",
@@ -28581,7 +28615,7 @@
     ],
     "Ubisoft Entertainment",
     1548359196,
-    1772528009
+    1774953363
   ],
   [
     "717d732578284ddf927cedc993a955a7",
@@ -31513,6 +31547,17 @@
     "Abrakam",
     1560536194,
     1581607887
+  ],
+  [
+    "7dcaea1be41f4737ad9580c9b26a3006",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Warframe: Voruna Prime Access - Weapons Pack",
+    [
+      "addons"
+    ],
+    "Digital Extremes",
+    1774968902,
+    1774968902
   ],
   [
     "7dd12fc48e164e5ea260d85ff08ad8c3",
@@ -41299,6 +41344,17 @@
     1617897978
   ],
   [
+    "a4ca00afa8b94e0c85000b689035bac7",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Warframe: Voruna Prime Access - Prime Pack",
+    [
+      "addons"
+    ],
+    "Digital Extremes",
+    1774968902,
+    1774968902
+  ],
+  [
     "a4e7a3d1683042ec892941e6d6d6bffb",
     "5d582c08e31a43128a61093a2c3ff7f0",
     "Product_Code_5",
@@ -45719,6 +45775,18 @@
     1770991210
   ],
   [
+    "b64e6147033541c1b8df5dd0cd68e9b2",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Warframe: Voruna Prime Access - Weapons Pack_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Digital Extremes",
+    1774968902,
+    1774968903
+  ],
+  [
     "b655a50d5e2b4601b91f927e127c34f2",
     "bb9f87bb3d0042258bb1c97397bc60f2",
     "PikesPeakHotfixGeneralAudience",
@@ -49381,7 +49449,7 @@
     ],
     "Epic Dev Test Account",
     1414117601,
-    1587027583
+    1774942552
   ],
   [
     "c5d07b0a53d24181beb0bfdc37fa104e",
@@ -49430,6 +49498,17 @@
     "Epic Games",
     1666622832,
     1670856888
+  ],
+  [
+    "c5e8ee6fd92f4aa295d013121423d281",
+    "SeaQA",
+    "SmokeTest",
+    [
+      "testing"
+    ],
+    "landy tian",
+    1774957223,
+    1774957223
   ],
   [
     "c617913cb9204299b3563b24af2c7252",
@@ -52857,6 +52936,18 @@
     1611076916
   ],
   [
+    "d3ca4a13d8ba48bab41c1533e9fd51ae",
+    "jaguar",
+    "Subnautica_DemoAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Unknown Worlds Entertainment",
+    1774923436,
+    1774923437
+  ],
+  [
     "d3d64993679c4389af88c22ec3bc903f",
     "77f2b98e2cef40c8a7437518bf420e47",
     "Cyberpunk 2077 Pre-Purchase",
@@ -54285,7 +54376,7 @@
     ],
     "Epic Dev Test Account",
     1413846494,
-    1736747266
+    1774942552
   ],
   [
     "d8a719f6e9f04eedb246c20cad86e169",
@@ -55664,6 +55755,18 @@
     1607098825
   ],
   [
+    "dd9989f7c77e4e8188d678fcc256df8a",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Warframe: Voruna Prime Access - Prime Pack_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Digital Extremes",
+    1774968902,
+    1774968903
+  ],
+  [
     "dd9b826961794131b77d993cbfe149c9",
     "affc33b82405457595a032f00284abd2",
     "DLC91 Audience",
@@ -55988,6 +56091,18 @@
     "Warhorse Studios",
     1712263480,
     1758156790
+  ],
+  [
+    "def14ffd2b0f4b92ba1aac0e91c9a0cd",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Warframe: Voruna Prime Accessories Pack_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Digital Extremes",
+    1774968902,
+    1774968903
   ],
   [
     "df0209e097d342c8bfe8d45932fe2cc1",
@@ -59150,6 +59265,18 @@
     "Piranha Games",
     1571681537,
     1604669941
+  ],
+  [
+    "ebfb11a4a7dc4a50968dcc45a75c41b8",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Warframe: Voruna Prime Access - Complete Pack_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Digital Extremes",
+    1774968902,
+    1774968903
   ],
   [
     "ec02f2dfefe1407fb56d3e3264a31dec",
