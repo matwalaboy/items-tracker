@@ -1,7 +1,7 @@
 {
-  "id": "ebfb11a4a7dc4a50968dcc45a75c41b8",
-  "title": "Warframe: Voruna Prime Access - Complete Pack_AddonAudience",
-  "description": "Warframe: Voruna Prime Access - Complete Pack_AddonAudience",
+  "id": "165e34a1b18743c194e06717eb2e2196",
+  "title": "Warframe: TennoCon 2026 Digital Pack_AddonAudience",
+  "description": "Warframe: TennoCon 2026 Digital Pack_AddonAudience",
   "categories": [
     {
       "path": "audience"
@@ -12,9 +12,9 @@
   ],
   "namespace": "244aaaa06bfa49d088205b13b9d2d115",
   "status": "ACTIVE",
-  "creationDate": "2026-03-25T13:27:59.765Z",
-  "lastModifiedDate": "2026-04-14T17:13:54.190Z",
-  "entitlementName": "ebfb11a4a7dc4a50968dcc45a75c41b8",
+  "creationDate": "2026-04-14T17:13:54.213Z",
+  "lastModifiedDate": "2026-04-14T17:13:54.773Z",
+  "entitlementName": "165e34a1b18743c194e06717eb2e2196",
   "entitlementType": "AUDIENCE",
   "itemType": "DURABLE",
   "developer": "Digital Extremes",
