@@ -4651,7 +4651,7 @@
     ],
     "Paradox Interactive",
     1758099788,
-    1777294816
+    1777369177
   ],
   [
     "12160a20dbb645d7a3672959b5d7ed03",
@@ -11817,6 +11817,17 @@
     "Phoenix Labs",
     1548707936,
     1734397333
+  ],
+  [
+    "2f4ab1e1a8c64cfdbb5d2714f726647b",
+    "5a82d5954a1943d79dc6b49cde2fe972",
+    "Predator: Hunting Grounds - Father Predator",
+    [
+      "addons"
+    ],
+    "IllFonic",
+    1777400195,
+    1777400195
   ],
   [
     "2f742aa604a441d1a145f70411e9d8d2",
@@ -33771,7 +33782,7 @@
     ],
     "Paradox Interactive",
     1758099401,
-    1761062190
+    1777369177
   ],
   [
     "862732ea194f4745b826fa9c8d891018",
@@ -39010,7 +39021,7 @@
     ],
     "IllFonic",
     1573595762,
-    1767909869
+    1777400195
   ],
   [
     "9bac3490ebda48159405488d18299e85",
@@ -46004,6 +46015,18 @@
     1765384350
   ],
   [
+    "b72504477e454d54b97fce9a93552855",
+    "5a82d5954a1943d79dc6b49cde2fe972",
+    "Father Predator_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "IllFonic",
+    1777400195,
+    1777400195
+  ],
+  [
     "b7251af860c6439eb70cc7683d30833c",
     "95b4d5a753d042678f775d5e1eb5ab25",
     "MuscovyStaging",
@@ -52139,7 +52162,7 @@
     ],
     "Paradox Interactive",
     1758099788,
-    1777294816
+    1777369177
   ],
   [
     "d037e916b9974a039836b7e16e1faf27",
