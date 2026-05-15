@@ -15361,6 +15361,17 @@
     1771293025
   ],
   [
+    "3e7218767f8d43b1b5fbe5cc570511d2",
+    "06a97980aac14fdfb914ef603a113792",
+    "Elite Starter Pack",
+    [
+      "addons"
+    ],
+    "Arc Games",
+    1778770817,
+    1778770817
+  ],
+  [
     "3e872e6e621e408994d974afa9745cba",
     "catnip",
     "CatnipExternalStable6DLC4",
@@ -17229,7 +17240,7 @@
     ],
     "Epic Games",
     1776287508,
-    1777926799
+    1778794451
   ],
   [
     "4510c4c3a5b944cabcd453223b57e4a6",
@@ -18252,7 +18263,7 @@
     ],
     "Epic Games",
     1494634432,
-    1776327917
+    1778745510
   ],
   [
     "49034acd5241476f95b6cd5d41c51c4e",
@@ -23021,6 +23032,18 @@
     "Ubisoft Entertainment",
     1559574261,
     1714509294
+  ],
+  [
+    "5b6ae126831f4725a573a0c59953aee2",
+    "06a97980aac14fdfb914ef603a113792",
+    "Elite Starter Pack_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Arc Games",
+    1778770817,
+    1778770817
   ],
   [
     "5b7e29cf5c774fe0a87827b7bdd12486",
