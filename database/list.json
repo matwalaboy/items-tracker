@@ -15372,6 +15372,18 @@
     1778770817
   ],
   [
+    "3e74eb1f5c524b2a9689cebd3ee3ea03",
+    "fn",
+    "FortniteBalloon_StWContent",
+    [
+      "addons",
+      "applications"
+    ],
+    "Epic Games",
+    1778858034,
+    1778858035
+  ],
+  [
     "3e872e6e621e408994d974afa9745cba",
     "catnip",
     "CatnipExternalStable6DLC4",
@@ -62427,12 +62439,12 @@
     "fn",
     "FortniteAurora_StWContent",
     [
-      "games",
+      "addons",
       "applications"
     ],
     "Epic Games",
     1775142598,
-    1775142851
+    1778856311
   ],
   [
     "f9289dc21f6c44eab51f2fb6fe244b0a",
