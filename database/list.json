@@ -16445,8 +16445,8 @@
       "addons"
     ],
     "Arc Games",
-    1778770817,
-    1778770817
+    1774985043,
+    1781215113
   ],
   [
     "3e74eb1f5c524b2a9689cebd3ee3ea03",
@@ -24591,8 +24591,8 @@
       "public"
     ],
     "Arc Games",
-    1778770817,
-    1778770817
+    1774985042,
+    1781215113
   ],
   [
     "5b7e29cf5c774fe0a87827b7bdd12486",
@@ -30637,7 +30637,7 @@
     ],
     "Ubisoft Entertainment",
     1548359196,
-    1774953363
+    1781197096
   ],
   [
     "717d732578284ddf927cedc993a955a7",
@@ -32836,7 +32836,7 @@
     ],
     "Klei Entertainment",
     1548981487,
-    1763683439
+    1781196508
   ],
   [
     "7a04b39c1f604827b4f9ce60460f0b5d",
@@ -40542,6 +40542,17 @@
     "SEGA of Europe",
     1603745839,
     1608309406
+  ],
+  [
+    "9771a18961614b23a20e9ea4c51a86d4",
+    "lotus",
+    "Oxygen Not Included: The Aquatic Planet Pack",
+    [
+      "addons"
+    ],
+    "Klei Entertainment",
+    1781196508,
+    1781196508
   ],
   [
     "97936335b7df4e87b561c1277d0439d4",
@@ -51937,6 +51948,18 @@
     1617901189
   ],
   [
+    "c21cfe7b67be4f1a95d7bca1d5d3f520",
+    "lotus",
+    "Oxygen Not Included: The Aquatic Planet Pack_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Klei Entertainment",
+    1781196508,
+    1781196508
+  ],
+  [
     "c21faaebed224851acab881b17ecc088",
     "a646020cb93b4ea995cda70647bbe001",
     "Steep RW DLC",
@@ -60174,8 +60197,8 @@
       "applications"
     ],
     "Atari",
-    1588697407,
-    1742544160
+    1781118943,
+    1781211764
   ],
   [
     "df3a39e32fa4499bbe2dcd69d506f860",
@@ -66729,7 +66752,7 @@
     ],
     "Klei Entertainment",
     1550069382,
-    1749746791
+    1781196508
   ],
   [
     "f8c562cdb8a44776aa7adf8ad38de220",
