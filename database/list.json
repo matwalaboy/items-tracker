@@ -13386,6 +13386,17 @@
     1780330925
   ],
   [
+    "32c24d569dc644e09e6732846ef69741",
+    "fn",
+    "FortnitePump_JunoContent",
+    [
+      "applications"
+    ],
+    "Epic Games",
+    1781272468,
+    1781272470
+  ],
+  [
     "32eb0d5c17454f9b88735987d0117c3f",
     "fn",
     "FortniteFloss_StWContent",
@@ -13645,6 +13656,17 @@
     "Paradox Interactive",
     1568316709,
     1705420933
+  ],
+  [
+    "33f519c4b38d40ca8e08ed26b346400a",
+    "fn",
+    "FortnitePug_StWContent",
+    [
+      "applications"
+    ],
+    "Epic Games",
+    1781270542,
+    1781270545
   ],
   [
     "33f5ecd5d7294cca81b69eee3314cfe0",
@@ -16089,6 +16111,17 @@
     "Wizards of the Coast",
     1572994193,
     1579197529
+  ],
+  [
+    "3d188fbbbc8a4e2198235706c3670f9d",
+    "fn",
+    "FortnitePug_JunoContent",
+    [
+      "applications"
+    ],
+    "Epic Games",
+    1781272465,
+    1781272467
   ],
   [
     "3d22d79ccad148b8b8391cf7f9bcc3e6",
@@ -24607,6 +24640,17 @@
     1779843627
   ],
   [
+    "5b823e634c344374ba44e587c86f35ba",
+    "fn",
+    "FortnitePrairie_StWContent",
+    [
+      "applications"
+    ],
+    "Epic Games",
+    1781270539,
+    1781270541
+  ],
+  [
     "5b88ae960215435aa2963ef18f169df0",
     "dfd2530e80e4425d801913b0879be444",
     "Dev Season 3 Artifact Audience",
@@ -32994,6 +33038,18 @@
     1570634619
   ],
   [
+    "7a8157a558f54bebae8e1aed23d2cccf",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Warframe: Mesa Heirloom Collection_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Digital Extremes",
+    1781296368,
+    1781296368
+  ],
+  [
     "7a9084a957be419e855a5697eddeb9af",
     "fn",
     "2600 Fortnite Points",
@@ -34074,6 +34130,17 @@
     1571235956
   ],
   [
+    "7e9112959f1c42b9aff3e980d99637ae",
+    "fn",
+    "FortnitePump_StWContent",
+    [
+      "applications"
+    ],
+    "Epic Games",
+    1781270546,
+    1781270548
+  ],
+  [
     "7e97838fff4e48e79f892f1e64d42cb0",
     "4561b40e52584ac2bcf34bbd5c401480",
     "Overcooked",
@@ -34805,6 +34872,17 @@
     "Epic Games",
     1758316101,
     1773900372
+  ],
+  [
+    "8188e9c8c26d468989845e8820d3d90e",
+    "fn",
+    "FortniteQuill_StWContent",
+    [
+      "applications"
+    ],
+    "Epic Games",
+    1781270551,
+    1781270553
   ],
   [
     "818d50d8bef5490495f980dc1ca40374",
@@ -36044,7 +36122,7 @@
     ],
     "Paradox Interactive",
     1758099401,
-    1781096414
+    1781261827
   ],
   [
     "862732ea194f4745b826fa9c8d891018",
@@ -40409,6 +40487,17 @@
     "Epic Games",
     1543522820,
     1763152029
+  ],
+  [
+    "971e10f934ef4addbbb4e26118749959",
+    "fn",
+    "FortnitePursuit_JunoContent",
+    [
+      "applications"
+    ],
+    "Epic Games",
+    1781272471,
+    1781272473
   ],
   [
     "972b4086401d43549b160670f8daf5da",
@@ -46412,6 +46501,17 @@
     1536080106
   ],
   [
+    "ad79406d58174c5abef0ff441bd7f7e5",
+    "fn",
+    "FortniteQuill_JunoContent",
+    [
+      "applications"
+    ],
+    "Epic Games",
+    1781272474,
+    1781272476
+  ],
+  [
     "ad798d449c0a47eda373da8cdc9f3209",
     "wex",
     "WEX External - Localization Team",
@@ -46843,6 +46943,17 @@
     "Rockstar Games",
     1571781711,
     1578411013
+  ],
+  [
+    "aedd3d24ad35456a8000c9c92e886f63",
+    "fn",
+    "FortnitePursuit_StWContent",
+    [
+      "applications"
+    ],
+    "Epic Games",
+    1781270548,
+    1781270551
   ],
   [
     "aeee0bdf01f44f9ba56751358f00850a",
@@ -50470,6 +50581,17 @@
     "2K Games, Inc.",
     1580506249,
     1592254375
+  ],
+  [
+    "bc02d8da45ee47efadc20874cb90da21",
+    "244aaaa06bfa49d088205b13b9d2d115",
+    "Warframe: Mesa Heirloom Collection",
+    [
+      "addons"
+    ],
+    "Digital Extremes",
+    1781296368,
+    1781296368
   ],
   [
     "bc10cbba4e454b918bbc4bfa846248e9",
@@ -68574,6 +68696,17 @@
     "Ubisoft Entertainment",
     1598898081,
     1641244160
+  ],
+  [
+    "ff8ac09e59844e89b71561cf78a99154",
+    "fn",
+    "FortnitePrairie_JunoContent",
+    [
+      "applications"
+    ],
+    "Epic Games",
+    1781272462,
+    1781272464
   ],
   [
     "ff8e1152ddf742b68f9ac0cecd378917",
