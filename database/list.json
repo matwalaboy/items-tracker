@@ -6575,7 +6575,7 @@
     ],
     "Passion Republic Games",
     1710959069,
-    1770689931
+    1783652422
   ],
   [
     "169d5056c7834d2c8c75dea90db50906",
@@ -12872,6 +12872,17 @@
     "Good Shepherd Entertainment",
     1557426532,
     1570553838
+  ],
+  [
+    "2daecee4cc1447169eaa10809540ed04",
+    "16fc138ed83846bc90d923fe0d87ad72",
+    "GigaBash - Ultraman Zero DLC",
+    [
+      "addons"
+    ],
+    "Passion Republic Games",
+    1783652422,
+    1783652422
   ],
   [
     "2dcbd50f795e4e108a27617f83abc5f0",
@@ -50232,6 +50243,18 @@
     "Stardock Entertainment, Inc",
     1588956422,
     1703003981
+  ],
+  [
+    "b0549516f4144de194355ee48004d66c",
+    "16fc138ed83846bc90d923fe0d87ad72",
+    "UltramanZeroDLC_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Passion Republic Games",
+    1783652422,
+    1783652422
   ],
   [
     "b05bf8a625394adaabfa9bd89c2ffb14",
