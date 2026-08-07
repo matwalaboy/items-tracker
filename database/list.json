@@ -1494,6 +1494,17 @@
     1573179514
   ],
   [
+    "0511d6e73a794253aff56992e1e900ba",
+    "clover",
+    "Little Inferno: Ho Ho Holiday Edition",
+    [
+      "addons"
+    ],
+    "Tomorrow Corporation",
+    1786041176,
+    1786041176
+  ],
+  [
     "0518de5f29c94ce38d2e2defca14d8cb",
     "4c436646d6f0400da483546a70e3a6e0",
     "Empires of the Undergrowth - Exploding Ants",
@@ -7671,8 +7682,8 @@
       "applications"
     ],
     "Tomorrow Corporation",
-    1747414475,
-    1747849381
+    1711309013,
+    1786041176
   ],
   [
     "1ad351d6237c4309ab8b39bb11264f9d",
@@ -8528,9 +8539,9 @@
       "games",
       "applications"
     ],
-    "505 Games",
+    "Giant Squid, Inc.",
     1559595545,
-    1742467029
+    1786028323
   ],
   [
     "1e54779efa7340f183978056bc35d397",
@@ -43406,6 +43417,18 @@
     1689256463
   ],
   [
+    "989ab6a9945342c0bf7a23573523aa1a",
+    "clover",
+    "LittleInferno",
+    [
+      "games",
+      "applications"
+    ],
+    "Tomorrow Corporation",
+    1786041176,
+    1786041176
+  ],
+  [
     "989befba645648ebaf24433d3de4b112",
     "fn",
     "FortniteAngel_JunoContent",
@@ -46262,9 +46285,9 @@
       "games",
       "applications"
     ],
-    "505 Games",
+    "Giant Squid, Inc.",
     1559595545,
-    1668005937
+    1786028324
   ],
   [
     "a1f821e771d24d6bba719670728c7f2a",
@@ -52117,13 +52140,13 @@
   [
     "b619cf61a4144d67bd753dc990637e7c",
     "fn",
-    "Fortnite_JunoContent",
+    "LEGO® Fortnite: Odyssey",
     [
-      "applications"
+      "hidden"
     ],
     "Epic Games",
     1782403214,
-    1782413189
+    1786051993
   ],
   [
     "b61bc70641044a3c97f3b233c0d32a55",
@@ -52902,9 +52925,9 @@
       "audience",
       "developer"
     ],
-    "505 Games",
+    "Giant Squid, Inc.",
     1559595545,
-    1668005919
+    1786028323
   ],
   [
     "b90b8ad26a4e45a18401fb8f34775582",
@@ -56512,6 +56535,18 @@
     "Epic Games",
     1588276087,
     1781799472
+  ],
+  [
+    "c64b4100f0a64e23bf2b264c36e0c95b",
+    "clover",
+    "Little Inferno: Ho Ho Holiday Edition_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Tomorrow Corporation",
+    1786041176,
+    1786041176
   ],
   [
     "c65ff5c47af244639e9ef4bb9d638ebc",
@@ -61165,6 +61200,18 @@
     1774486639
   ],
   [
+    "d5e0c69cc0854e5b83d6668e3ce2df79",
+    "clover",
+    "LittleInferno_Android_BaseGameAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Tomorrow Corporation",
+    1786041176,
+    1786041176
+  ],
+  [
     "d5eca23050f94db592b8148ed423fd69",
     "7ab8af3a04424eeaa509d37d7b5222b7",
     "DevApricotAudience",
@@ -64515,8 +64562,8 @@
       "public"
     ],
     "Tomorrow Corporation",
-    1747414475,
-    1747849381
+    1711309013,
+    1786041176
   ],
   [
     "e0acb984f1ee4388a6938d65dfb1ca3a",
@@ -66800,9 +66847,9 @@
       "audience",
       "public"
     ],
-    "505 Games",
+    "Giant Squid, Inc.",
     1559595545,
-    1742467029
+    1786028323
   ],
   [
     "e87ae7a0e974419693b305c7ccea111a",

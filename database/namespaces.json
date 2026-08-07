@@ -3338,6 +3338,16 @@
     "b0d9bcc82f15440fb7be09824c10c7e2",
     "cf1bbc6abcba4eb5a71387f66732a23c"
   ],
+  "clover": [
+    "0511d6e73a794253aff56992e1e900ba",
+    "1abc2e6bd18349d09683deef8d1be553",
+    "989ab6a9945342c0bf7a23573523aa1a",
+    "bba07ea47a0d446983f9551994923ecb",
+    "c64b4100f0a64e23bf2b264c36e0c95b",
+    "d5e0c69cc0854e5b83d6668e3ce2df79",
+    "e0a252835b8241db9a1c1838d534dcea",
+    "f58c4f06c1bb4024bddb8609710dee6c"
+  ],
   "4c436646d6f0400da483546a70e3a6e0": [
     "0518de5f29c94ce38d2e2defca14d8cb",
     "34a5fd2b8c0a45e4be822f8bd0e85ba7",
@@ -5524,12 +5534,6 @@
     "f496b2a2391d499180067ef113af54ce",
     "fbb9067ad3ee4037ad1fbe9e6ff50988",
     "ff90291521e14dc2bb8b41f8d993419a"
-  ],
-  "clover": [
-    "1abc2e6bd18349d09683deef8d1be553",
-    "bba07ea47a0d446983f9551994923ecb",
-    "e0a252835b8241db9a1c1838d534dcea",
-    "f58c4f06c1bb4024bddb8609710dee6c"
   ],
   "270e1d648a5e4060b7b441615c4da4d9": [
     "1b2bc7cc58ae4633bcc8f7abc67fd537",
