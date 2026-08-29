@@ -10223,6 +10223,17 @@
     1662070263
   ],
   [
+    "23f77cc71e6440cf979435cb7ea2e7ff",
+    "2bfd5ca43ef443739ada168e017e1b78",
+    "Gauntlet",
+    [
+      "addons"
+    ],
+    "Gambrinous",
+    1787907841,
+    1787907841
+  ],
+  [
     "2405d452596b4a43965ff73738eb2f11",
     "ca93b6d41a4e41af864942d8f0a2a826",
     "Hussar Flip DLC",
@@ -12458,6 +12469,18 @@
     "Sony Interactive Entertainment",
     1564074902,
     1576771074
+  ],
+  [
+    "2b7dfc7ab4604b88a6fd7be5a80c5bd9",
+    "2bfd5ca43ef443739ada168e017e1b78",
+    "Cardpocalypse_Android_BaseGameAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Gambrinous",
+    1787907841,
+    1787907842
   ],
   [
     "2b86cadff27f4967b8b07aeba7baab3c",
@@ -18520,7 +18543,7 @@
     ],
     "Ubisoft Entertainment",
     1571261039,
-    1596843273
+    1787923907
   ],
   [
     "42154b411d56416daa4b73b8268f5bf8",
@@ -22231,6 +22254,18 @@
     "NCSoft",
     1603395834,
     1611242876
+  ],
+  [
+    "4d7fc2322e6d4743afa5715d29a6f48b",
+    "2bfd5ca43ef443739ada168e017e1b78",
+    "Gauntlet_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Gambrinous",
+    1787907841,
+    1787907842
   ],
   [
     "4d86eae2df204d0c83d311d04a62a9d7",
@@ -34151,6 +34186,18 @@
     1780331132
   ],
   [
+    "7712eace396e47cb9e86bec5ea0821aa",
+    "2bfd5ca43ef443739ada168e017e1b78",
+    "Cardpocalypse",
+    [
+      "games",
+      "applications"
+    ],
+    "Gambrinous",
+    1787907841,
+    1787907842
+  ],
+  [
     "7722a61ffc2243e99f87d4d569ce33b3",
     "larkspur",
     "LarkspurDevAudience",
@@ -34576,6 +34623,18 @@
     "Epic Games",
     1497042069,
     1497044511
+  ],
+  [
+    "78ab7c87de07416aae77b4e0b5007b7f",
+    "2bfd5ca43ef443739ada168e017e1b78",
+    "Cardpocalypse",
+    [
+      "games",
+      "applications"
+    ],
+    "Gambrinous",
+    1787907841,
+    1787907842
   ],
   [
     "78ac84c713f64377a0cfe1a13ba42c77",
@@ -37306,7 +37365,7 @@
     ],
     "Gambrinous",
     1712088354,
-    1787355623
+    1787907841
   ],
   [
     "8212880474ef431f99a43c0fb77b7a53",
@@ -44739,6 +44798,17 @@
     "Dragonest Game",
     1736514184,
     1774486638
+  ],
+  [
+    "9ce1321e86d04543bcbcc10a50e50be9",
+    "2bfd5ca43ef443739ada168e017e1b78",
+    "Out of Time",
+    [
+      "addons"
+    ],
+    "Gambrinous",
+    1787907841,
+    1787907841
   ],
   [
     "9ce5b80c68434715a63bc93d31ed8bc7",
@@ -54767,6 +54837,18 @@
     1575673737
   ],
   [
+    "bfc6248428e443d6af6934c7f58c60db",
+    "2bfd5ca43ef443739ada168e017e1b78",
+    "Out of Time_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Gambrinous",
+    1787907841,
+    1787907842
+  ],
+  [
     "bfca5d8f713a490ab9689b4b6d43bf56",
     "9c39a79dfeb84f98a4bd7c1cac1e4bb3",
     "LeoStaging",
@@ -59103,7 +59185,7 @@
     ],
     "Gambrinous",
     1712088354,
-    1787355623
+    1787907841
   ],
   [
     "cec78d53c18f429e9b22fe6adce49f98",
@@ -59741,6 +59823,18 @@
     "Code Horizon",
     1554743720,
     1713299767
+  ],
+  [
+    "d0f429de4cf441cab988ac847840e066",
+    "2bfd5ca43ef443739ada168e017e1b78",
+    "Cardpocalypse_IOS_BaseGameAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Gambrinous",
+    1787907841,
+    1787907842
   ],
   [
     "d0f62d60809d4d8f989b7130a169eab6",
@@ -65565,13 +65659,11 @@
     "fn",
     "FortniteGrillin_StWContent",
     [
-      "addons/launchable",
-      "addons",
-      "applications"
+      "hidden"
     ],
     "Epic Games",
     1787675614,
-    1787675616
+    1787944268
   ],
   [
     "e392eefa2afc4a2bb99f507779a54b32",
@@ -71517,7 +71609,7 @@
     ],
     "Ubisoft Entertainment",
     1571260788,
-    1596843273
+    1787923907
   ],
   [
     "f9c0cb9340c547e289fee75815ac8b7f",
