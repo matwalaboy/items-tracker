@@ -1,6 +1,6 @@
 {
   "id": "e38f461e6b2e4395b562bc185eed8b3b",
-  "title": "FortniteGrillin_StWContent",
+  "title": "FortniteGrillin_StWContent_REMOVE",
   "description": "FortniteGrillin_StWContent",
   "keyImages": [],
   "categories": [
@@ -11,7 +11,7 @@
   "namespace": "fn",
   "status": "ACTIVE",
   "creationDate": "2026-08-25T16:33:34.080Z",
-  "lastModifiedDate": "2026-08-28T19:11:08.088Z",
+  "lastModifiedDate": "2026-09-23T15:16:38.748Z",
   "customAttributes": {
     "remove_for_account_deprovision": {
       "type": "STRING",
