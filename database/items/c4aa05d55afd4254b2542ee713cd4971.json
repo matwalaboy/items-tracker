@@ -36,7 +36,7 @@
   "namespace": "14ee004dadc142faaaece5a6270fb628",
   "status": "ACTIVE",
   "creationDate": "2020-04-28T15:35:25.735Z",
-  "lastModifiedDate": "2026-08-25T19:58:03.670Z",
+  "lastModifiedDate": "2026-09-28T13:47:16.901Z",
   "customAttributes": {
     "CanRunOffline": {
       "type": "STRING",
@@ -62,9 +62,17 @@
       "type": "STRING",
       "value": "[]"
     },
+    "ProcessNames": {
+      "type": "STRING",
+      "value": "REDlauncher.exe, REDupdater.exe"
+    },
     "CanSkipKoreanIdVerification": {
       "type": "STRING",
       "value": "true"
+    },
+    "MainWindowProcessName": {
+      "type": "STRING",
+      "value": "witcher3.exe"
     },
     "MaxSizeMB": {
       "type": "STRING",
