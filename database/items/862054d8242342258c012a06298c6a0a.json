@@ -1,0 +1,50 @@
+{
+  "id": "862054d8242342258c012a06298c6a0a",
+  "title": "FortniteStratus_JunoContent",
+  "description": "FortniteStratus_JunoContent",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "namespace": "fn",
+  "status": "ACTIVE",
+  "creationDate": "2026-11-19T01:27:47.436Z",
+  "lastModifiedDate": "2026-11-19T01:27:47.436Z",
+  "customAttributes": {
+    "remove_for_account_deprovision": {
+      "type": "STRING",
+      "value": "true"
+    },
+    "UseAccessControl": {
+      "type": "STRING",
+      "value": "false"
+    },
+    "AdditionalCommandLine": {
+      "type": "STRING",
+      "value": "-epicapp=FortniteStratus -IslandOverride=playlist_juno"
+    },
+    "CanSkipKoreanIdVerification": {
+      "type": "STRING",
+      "value": "true"
+    }
+  },
+  "entitlementName": "862054d8242342258c012a06298c6a0a",
+  "entitlementType": "EXECUTABLE",
+  "itemType": "DURABLE",
+  "releaseInfo": [
+    {
+      "id": "f2da2fa1ca2944cd8d9ccda75065eeec",
+      "appId": "e85f674b70ad48b597f09223727dc389",
+      "platform": [
+        "Windows"
+      ]
+    }
+  ],
+  "developer": "Epic Games",
+  "developerId": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+  "endOfSupport": false,
+  "ageGatings": {},
+  "requiresSecureAccount": false,
+  "unsearchable": false
+}
