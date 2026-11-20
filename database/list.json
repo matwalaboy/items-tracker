@@ -24121,6 +24121,18 @@
     1607613724
   ],
   [
+    "52b2a17ed806444d835608777015bd3d",
+    "lotus",
+    "Oxygen Not Included: Classic Critter Cosmetics Pack_AddonAudience",
+    [
+      "audience",
+      "public"
+    ],
+    "Klei Entertainment",
+    1795109689,
+    1795109689
+  ],
+  [
     "52c27686f5394989828851e077a460ed",
     "fn",
     "FortniteHatchling_JunoContent",
@@ -35451,7 +35463,7 @@
     ],
     "Klei Entertainment",
     1548981487,
-    1781196508
+    1795109689
   ],
   [
     "7a04b39c1f604827b4f9ce60460f0b5d",
@@ -38201,6 +38213,17 @@
     "Epic Dev Test Account",
     1579895065,
     1582126786
+  ],
+  [
+    "841cdf0117894cdaa2f73cd565f37edb",
+    "lotus",
+    "Oxygen Not Included: Classic Critter Cosmetics Pack",
+    [
+      "addons"
+    ],
+    "Klei Entertainment",
+    1795109689,
+    1795109689
   ],
   [
     "842289d0375e4d078b5b3da5156b7fbc",
